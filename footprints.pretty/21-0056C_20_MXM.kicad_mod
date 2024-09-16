@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "MAX14483AAP+ ")
 	(property "Reference" "REF**"
-		(at 0 0 0)
+		(at 2.5 -4.9 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "03777508-7b9f-4d25-b285-c711b00e6d56")
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "21-0056C_20_MXM"
-		(at 0 0 0)
+		(at 0.1 6.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "3097e311-a44d-4365-9c93-32ea5ed8c002")
@@ -124,30 +124,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "482b585a-2cb2-4302-b5db-38820fdeca58")
-	)
-	(fp_poly
-		(pts
-			(xy -4.8133 2.734498) (xy -4.8133 3.115498) (xy -4.5593 3.115498) (xy -4.5593 2.734498)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "9660d106-e4fa-4000-8c0f-9d1ef84d163f")
-	)
-	(fp_poly
-		(pts
-			(xy 4.8133 -3.115498) (xy 4.8133 -2.734498) (xy 4.5593 -2.734498) (xy 4.5593 -3.115498)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "5df94806-7b73-4f60-a8d4-fa4d83f8d090")
 	)
 	(fp_line
 		(start -4.5593 -3.3949)
@@ -1121,18 +1097,7 @@
 		(uuid "99f186e4-8378-4f5f-af80-0d35b6e14061")
 	)
 	(fp_text user "*"
-		(at -3.75285 -4.499801 0)
-		(layer "F.SilkS")
-		(uuid "16017869-b46a-4163-8793-7c062f6c4483")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at -3.75285 -4.499801 0)
+		(at -3.5 -4.2 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "ef06213d-1269-40e1-83a4-82777c04a079")
@@ -1144,7 +1109,7 @@
 		)
 	)
 	(fp_text user "*"
-		(at -2.3114 -3.5941 0)
+		(at -3.5 -4.2 0)
 		(layer "F.Fab")
 		(uuid "5e3fb877-1622-4f47-8701-44f400e9000e")
 		(effects
@@ -1155,22 +1120,10 @@
 		)
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "9bb42145-dd2a-43e3-b494-827e96530c89")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at -2.3114 -3.5941 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "d52a9b4e-e137-4867-9f5b-63da57db72d3")
 		(effects
 			(font
 				(size 1 1)

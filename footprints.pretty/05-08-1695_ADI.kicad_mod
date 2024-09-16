@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "LTC9111RDE-PBF ")
 	(property "Reference" "REF**"
-		(at 0 0 0)
+		(at 2.5 -3.4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "6682c396-1fdf-478c-8fb2-e60f0997eadb")
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "05-08-1695_ADI"
-		(at 0 0 0)
+		(at 0 3.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "eafcff63-5831-4a97-97ed-27ce5bcef56b")
@@ -343,7 +343,7 @@
 		(uuid "1a0c7892-aae9-44a1-8085-827cefc1c565")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 5.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "5bbe5a15-6c28-4639-b569-83462a2f5fa1")

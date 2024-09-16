@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "MAX17761ATC+ ")
 	(property "Reference" "REF**"
-		(at 0 0 0)
+		(at 2.5 -2.8 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "10ef9cbd-945d-4202-a70d-ea0a36e2206e")
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "21-0664_TD1233+1C_MXM"
-		(at 0 0 0)
+		(at 0 4.8 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "c4a9f2ba-8511-4d81-962f-bb79f0669eb3")
@@ -292,7 +292,7 @@
 		(uuid "e66c20dc-fe89-4059-8c71-ccde501fc489")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 3 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "f590c370-bc62-4b85-a17e-3db1d197cdb1")

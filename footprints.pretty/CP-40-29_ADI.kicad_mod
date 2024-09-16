@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "CP-40-29_ADI"
-		(at 0 0 0)
+		(at 0 6.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "06513dbb-de2e-4237-9edc-8482a27c2d31")
@@ -192,54 +192,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "c64991c6-1106-4ded-a867-7259d30bbad8")
-	)
-	(fp_poly
-		(pts
-			(xy -3.8608 2.059501) (xy -3.8608 2.440501) (xy -3.6068 2.440501) (xy -3.6068 2.059501)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "e3072783-9340-4396-9f17-53a7b007c708")
-	)
-	(fp_poly
-		(pts
-			(xy -2.440501 -3.6068) (xy -2.440501 -3.8608) (xy -2.059501 -3.8608) (xy -2.059501 -3.6068)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "edf4112d-7f8d-49e0-9941-9975cb753f2e")
-	)
-	(fp_poly
-		(pts
-			(xy 2.059501 3.6068) (xy 2.059501 3.8608) (xy 2.440501 3.8608) (xy 2.440501 3.6068)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "cd856869-a30d-4089-99b6-3a1e650d541b")
-	)
-	(fp_poly
-		(pts
-			(xy 3.8608 -2.440501) (xy 3.8608 -2.059501) (xy 3.6068 -2.059501) (xy 3.6068 -2.440501)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "da6adc32-79a6-4651-83ef-2f139415804d")
 	)
 	(fp_line
 		(start -3.6068 -2.631)
@@ -2132,7 +2084,7 @@
 		(uuid "ed5d5ff7-06de-4b74-bfb0-50c7bc3e9b74")
 	)
 	(fp_text user "*"
-		(at -3.9878 -2.5 0)
+		(at -3.7 -3.4 0)
 		(layer "F.SilkS")
 		(uuid "8356def0-e61b-409a-87f9-8470dbcd45a6")
 		(effects
@@ -2143,19 +2095,7 @@
 		)
 	)
 	(fp_text user "*"
-		(at -3.9878 -2.5 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "c778b44f-d28c-4202-8f00-f959649f8f4c")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at -2.5908 -2.5 0)
+		(at -3.7 -3.4 0)
 		(layer "F.Fab")
 		(uuid "5725b5d5-06db-4cf2-9117-4152210d2dce")
 		(effects
@@ -2166,22 +2106,10 @@
 		)
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 4.8 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "74c1ab78-531b-498d-bf35-827d7b27e790")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at -2.5908 -2.5 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "b59073ed-0117-445a-ab09-dfe4a7f0e4d1")
 		(effects
 			(font
 				(size 1 1)

@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "ADP1032ACPZ-5-R7 ")
 	(property "Reference" "REF**"
-		(at 0 0 0)
+		(at 2.6 -5.2 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "ec2218ee-07e9-4bf4-9491-3c4811eb483c")
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "CP-41-1_ADI"
-		(at 0 0 0)
+		(at 0 5.3 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "7cbf007b-8824-401b-a013-b16131fa426a")
@@ -174,66 +174,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "90879df1-72a8-46a1-af7f-2887e56fb25f")
-	)
-	(fp_poly
-		(pts
-			(xy -5.3594 1.559499) (xy -5.3594 1.940499) (xy -5.1054 1.940499) (xy -5.1054 1.559499)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "ca058bd9-9eb3-4faa-b705-54a70ae74933")
-	)
-	(fp_poly
-		(pts
-			(xy -0.940501 -4.1148) (xy -0.940501 -4.3688) (xy -0.559501 -4.3688) (xy -0.559501 -4.1148)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "0b6645f0-1b58-4394-900a-d3a80798ea11")
-	)
-	(fp_poly
-		(pts
-			(xy -0.4405 4.1148) (xy -0.4405 4.3688) (xy -0.059499 4.3688) (xy -0.059499 4.1148)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "d4ae5040-eaa1-4797-802b-153773f43338")
-	)
-	(fp_poly
-		(pts
-			(xy 5.3594 -2.9405) (xy 5.3594 -2.5595) (xy 5.1054 -2.5595) (xy 5.1054 -2.9405)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "970e8644-1a29-4ddf-8589-75a8f935f5c2")
-	)
-	(fp_poly
-		(pts
-			(xy 5.3594 2.059501) (xy 5.3594 2.440501) (xy 5.1054 2.440501) (xy 5.1054 2.059501)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill solid)
-		(layer "F.SilkS")
-		(uuid "78bdc576-a826-498f-b1f7-69ceab8b34af")
 	)
 	(fp_line
 		(start -5.1054 -3.1056)
@@ -2726,7 +2666,7 @@
 		(uuid "a54c46cb-8dd7-4a38-a5ca-8e31b272a840")
 	)
 	(fp_text user "*"
-		(at -5.6388 -2.75 0)
+		(at -5.3 -4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "349f46b3-7fc1-44a4-a91f-21460cc0d15e")
@@ -2738,18 +2678,7 @@
 		)
 	)
 	(fp_text user "*"
-		(at -5.6388 -2.75 0)
-		(layer "F.SilkS")
-		(uuid "c4181fdf-2b8e-4625-a569-f64a29bad6ff")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at -3.302 -2.75 0)
+		(at -5.3 -4 0)
 		(layer "F.Fab")
 		(uuid "2d52eed1-9b03-4c19-b012-fe6f5005c175")
 		(effects
@@ -2760,22 +2689,10 @@
 		)
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 7.1 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "f2bfd9c6-134e-4758-9cc9-9622e17e560f")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "*"
-		(at -3.302 -2.75 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "f5ae0500-8ed1-498b-88a5-a0baba5d7a79")
 		(effects
 			(font
 				(size 1 1)
