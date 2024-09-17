@@ -74,7 +74,7 @@
 		)
 		(symbol "S80KS5122GABHM020_0_1"
 			(pin no_connect line
-				(at -12.7 -1.27 0)
+				(at -10.16 -2.54 0)
 				(length 2.54)
 				(name "RFU"
 					(effects
@@ -92,7 +92,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -12.7 -3.81 0)
+				(at -10.16 -5.08 0)
 				(length 2.54)
 				(name "RFU"
 					(effects
@@ -110,7 +110,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 3.81 180)
+				(at 10.16 2.54 180)
 				(length 2.54)
 				(name "CK"
 					(effects
@@ -128,7 +128,7 @@
 				)
 			)
 			(pin power_out line
-				(at -7.62 -24.13 90)
+				(at -5.08 -25.4 90)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -146,7 +146,7 @@
 				)
 			)
 			(pin power_in line
-				(at -7.62 24.13 270)
+				(at -5.08 25.4 270)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -164,7 +164,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -12.7 -6.35 0)
+				(at -10.16 -7.62 0)
 				(length 2.54)
 				(name "RFU"
 					(effects
@@ -182,7 +182,7 @@
 				)
 			)
 			(pin power_out line
-				(at -2.54 -24.13 90)
+				(at 0 -25.4 90)
 				(length 2.54)
 				(name "VSSQ"
 					(effects
@@ -200,7 +200,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -12.7 -8.89 0)
+				(at -10.16 -10.16 0)
 				(length 2.54)
 				(name "RFU"
 					(effects
@@ -218,7 +218,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 11.43 180)
+				(at 10.16 10.16 180)
 				(length 2.54)
 				(name "RWDS"
 					(effects
@@ -236,7 +236,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -6.35 180)
+				(at 10.16 -7.62 180)
 				(length 2.54)
 				(name "DQ2"
 					(effects
@@ -254,7 +254,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -12.7 -11.43 0)
+				(at -10.16 -12.7 0)
 				(length 2.54)
 				(name "RFU"
 					(effects
@@ -272,7 +272,7 @@
 				)
 			)
 			(pin power_in line
-				(at -5.08 24.13 270)
+				(at -2.54 25.4 270)
 				(length 2.54)
 				(name "VCCQ"
 					(effects
@@ -290,7 +290,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -3.81 180)
+				(at 10.16 -5.08 180)
 				(length 2.54)
 				(name "DQ1"
 					(effects
@@ -308,7 +308,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -1.27 180)
+				(at 10.16 -2.54 180)
 				(length 2.54)
 				(name "DQ0"
 					(effects
@@ -326,7 +326,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -8.89 180)
+				(at 10.16 -10.16 180)
 				(length 2.54)
 				(name "DQ3"
 					(effects
@@ -344,7 +344,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -11.43 180)
+				(at 10.16 -12.7 180)
 				(length 2.54)
 				(name "DQ4"
 					(effects
@@ -362,7 +362,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -19.05 180)
+				(at 10.16 -20.32 180)
 				(length 2.54)
 				(name "DQ7"
 					(effects
@@ -380,7 +380,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -16.51 180)
+				(at 10.16 -17.78 180)
 				(length 2.54)
 				(name "DQ6"
 					(effects
@@ -398,7 +398,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -13.97 180)
+				(at 10.16 -15.24 180)
 				(length 2.54)
 				(name "DQ5"
 					(effects
@@ -416,7 +416,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 24.13 270)
+				(at 0 25.4 270)
 				(length 2.54)
 				(name "VCCQ"
 					(effects
@@ -434,7 +434,7 @@
 				)
 			)
 			(pin power_out line
-				(at -5.08 -24.13 90)
+				(at -2.54 -25.4 90)
 				(length 2.54)
 				(name "VSSQ"
 					(effects
@@ -454,8 +454,8 @@
 		)
 		(symbol "S80KS5122GABHM020_1_1"
 			(rectangle
-				(start -10.16 21.59)
-				(end 10.16 -21.59)
+				(start -7.62 22.86)
+				(end 7.62 -22.86)
 				(stroke
 					(width 0)
 					(type default)
@@ -465,7 +465,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 19.05 180)
+				(at 10.16 17.78 180)
 				(length 2.54)
 				(name "~{CS}"
 					(effects
@@ -483,7 +483,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 16.51 180)
+				(at 10.16 15.24 180)
 				(length 2.54)
 				(name "~{RESET}"
 					(effects
@@ -501,7 +501,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 6.35 180)
+				(at 10.16 5.08 180)
 				(length 2.54)
 				(name "~{CK}"
 					(effects
