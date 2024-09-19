@@ -4365,7 +4365,7 @@
 			(pin output line
 				(at 17.78 27.94 180)
 				(length 2.54)
-				(name "*READY"
+				(name "~{READY}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4419,7 +4419,7 @@
 			(pin output line
 				(at 17.78 30.48 180)
 				(length 2.54)
-				(name "*FAULT"
+				(name "~{FAULT}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4437,7 +4437,7 @@
 			(pin output line
 				(at 17.78 22.86 180)
 				(length 2.54)
-				(name "*VDDOK"
+				(name "~{VDDOK}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4527,7 +4527,7 @@
 			(pin input line
 				(at -17.78 15.24 0)
 				(length 2.54)
-				(name "*CS"
+				(name "~{CS}"
 					(effects
 						(font
 							(size 1.27 1.27)
