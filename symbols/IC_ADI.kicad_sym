@@ -5720,6 +5720,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_R5" bidirectional line)
+				(alternate "UART1_TX" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 20.32 0)
@@ -5738,6 +5740,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_VDEN" bidirectional line)
+				(alternate "SPI0_SS0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 7.62 0)
@@ -5756,6 +5760,7 @@
 						)
 					)
 				)
+				(alternate "TDO" bidirectional line)
 			)
 			(pin input line
 				(at 35.56 45.72 180)
@@ -5810,6 +5815,7 @@
 						)
 					)
 				)
+				(alternate "TDI" bidirectional line)
 			)
 			(pin input line
 				(at 35.56 50.8 180)
@@ -5954,6 +5960,7 @@
 						)
 					)
 				)
+				(alternate "TCK (SWDCLK)" bidirectional line)
 			)
 			(pin unspecified line
 				(at 22.86 86.36 270)
@@ -5990,6 +5997,7 @@
 						)
 					)
 				)
+				(alternate "CLCD_B0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 5.08 0)
@@ -6008,6 +6016,7 @@
 						)
 					)
 				)
+				(alternate "TMS (SWDIO)" bidirectional line)
 			)
 			(pin unspecified line
 				(at 35.56 73.66 180)
@@ -6044,6 +6053,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_B4" bidirectional line)
+				(alternate "SPI1_SCK" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -58.42 180)
@@ -6062,6 +6073,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_B5" bidirectional line)
+				(alternate "SPI1_SS3" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -55.88 180)
@@ -6080,6 +6093,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_B6" bidirectional line)
+				(alternate "SPI1_MISO" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -53.34 180)
@@ -6098,6 +6113,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_B7" bidirectional line)
+				(alternate "SPI1_MOSI" bidirectional line)
 			)
 			(pin power_out line
 				(at 2.54 -86.36 90)
@@ -6153,6 +6170,8 @@
 						)
 					)
 				)
+				(alternate "PT9" bidirectional line)
+				(alternate "SPI2_SS2" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 12.7 180)
@@ -6171,6 +6190,8 @@
 						)
 					)
 				)
+				(alternate "PT10" bidirectional line)
+				(alternate "SPI2_SS1" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 10.16 180)
@@ -6189,6 +6210,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_LEND" bidirectional line)
+				(alternate "SPI2_SCK (I2S-BCLK)" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 7.62 180)
@@ -6207,6 +6230,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_PWREN" bidirectional line)
+				(alternate "SPI2_MISO (I2S-SDI)" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 5.08 180)
@@ -6225,6 +6250,7 @@
 						)
 					)
 				)
+				(alternate "SPI2_MOSI (I2S-SDO)" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 2.54 180)
@@ -6243,6 +6269,8 @@
 						)
 					)
 				)
+				(alternate "PT11" bidirectional line)
+				(alternate "SPI2_SS0 (I2S_LRCLK)" bidirectional line)
 			)
 			(pin power_in line
 				(at -22.86 86.36 270)
@@ -6279,6 +6307,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_VSYNC" bidirectional line)
+				(alternate "SPI2_SS3" bidirectional line)
 			)
 			(pin power_in line
 				(at -10.16 86.36 270)
@@ -6315,6 +6345,7 @@
 						)
 					)
 				)
+				(alternate "I2C0_SDA" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 55.88 0)
@@ -6352,6 +6383,7 @@
 						)
 					)
 				)
+				(alternate "I2C0_SCL" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -7.62 180)
@@ -6370,6 +6402,8 @@
 						)
 					)
 				)
+				(alternate "PT12" bidirectional line)
+				(alternate "UART0_CTS" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -12.7 180)
@@ -6388,6 +6422,8 @@
 						)
 					)
 				)
+				(alternate "PT13" bidirectional line)
+				(alternate "UART0_RX" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -35.56 180)
@@ -6406,6 +6442,7 @@
 						)
 					)
 				)
+				(alternate "PT11" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -10.16 180)
@@ -6424,6 +6461,8 @@
 						)
 					)
 				)
+				(alternate "PT14" bidirectional line)
+				(alternate "UART0_RTS" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -38.1 180)
@@ -6442,6 +6481,7 @@
 						)
 					)
 				)
+				(alternate "PT12" bidirectional line)
 			)
 			(pin power_out line
 				(at 0 -86.36 90)
@@ -6478,6 +6518,8 @@
 						)
 					)
 				)
+				(alternate "PT15" bidirectional line)
+				(alternate "UART0_TX" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 40.64 180)
@@ -6496,6 +6538,7 @@
 						)
 					)
 				)
+				(alternate "SPI0_MISO" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -40.64 180)
@@ -6514,6 +6557,7 @@
 						)
 					)
 				)
+				(alternate "PT14" bidirectional line)
 			)
 			(pin unspecified line
 				(at 12.7 86.36 270)
@@ -6550,6 +6594,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_R2" bidirectional line)
+				(alternate "UART1_CTS" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 38.1 180)
@@ -6568,6 +6614,7 @@
 						)
 					)
 				)
+				(alternate "SPI0_MOSI" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 35.56 180)
@@ -6586,6 +6633,7 @@
 						)
 					)
 				)
+				(alternate "SPI0_SCK" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -20.32 180)
@@ -6604,6 +6652,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_R3" bidirectional line)
+				(alternate "UART1_RX" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -22.86 180)
@@ -6622,6 +6672,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_R4" bidirectional line)
+				(alternate "UART1_RTS" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 53.34 0)
@@ -6659,6 +6711,7 @@
 						)
 					)
 				)
+				(alternate "PT1" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 50.8 0)
@@ -6714,6 +6767,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_R6" bidirectional line)
+				(alternate "I2C1_SDA" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 73.66 0)
@@ -6751,6 +6806,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_R7" bidirectional line)
+				(alternate "I2C1_SCL" bidirectional line)
 			)
 			(pin power_in line
 				(at -15.24 86.36 270)
@@ -6825,6 +6882,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_CLK" bidirectional line)
+				(alternate "PT15" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 43.18 0)
@@ -6843,6 +6902,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_G0" bidirectional line)
+				(alternate "SPI3_SS1" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 40.64 0)
@@ -6861,6 +6922,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_G1" bidirectional line)
+				(alternate "SPI3_SS2" bidirectional line)
 			)
 			(pin power_out line
 				(at 22.86 -86.36 90)
@@ -6897,6 +6960,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_G2" bidirectional line)
+				(alternate "SPI3_SDIO3" bidirectional line)
 			)
 			(pin power_out line
 				(at 20.32 -86.36 90)
@@ -6952,6 +7017,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_G3" bidirectional line)
+				(alternate "SPI3_SCK" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 33.02 0)
@@ -6970,6 +7037,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_G4" bidirectional line)
+				(alternate "SPI3_SDIO2" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 30.48 0)
@@ -6988,6 +7057,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_G5" bidirectional line)
+				(alternate "SPI3_SS3" bidirectional line)
 			)
 			(pin power_in line
 				(at -17.78 86.36 270)
@@ -7024,6 +7095,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_G6" bidirectional line)
+				(alternate "SPI3_SS0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 25.4 0)
@@ -7042,6 +7115,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_G7" bidirectional line)
+				(alternate "SPI3_SDIO1" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 22.86 0)
@@ -7060,6 +7135,7 @@
 						)
 					)
 				)
+				(alternate "SPI3_SDIO0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -7.62 0)
@@ -7078,6 +7154,8 @@
 						)
 					)
 				)
+				(alternate "SDHC_CMD" bidirectional line)
+				(alternate "SPIXF_SDIO3" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -25.4 0)
@@ -7096,6 +7174,8 @@
 						)
 					)
 				)
+				(alternate "PT1" bidirectional line)
+				(alternate "UART2_CTS" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -10.16 0)
@@ -7114,6 +7194,8 @@
 						)
 					)
 				)
+				(alternate "SDHC_DAT2" bidirectional line)
+				(alternate "SPIXF_SDIO1" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 68.58 0)
@@ -7151,6 +7233,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_HSYNC" bidirectional line)
+				(alternate "RXEV" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 12.7 0)
@@ -7169,6 +7253,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_B0" bidirectional line)
+				(alternate "TXEV" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -12.7 0)
@@ -7187,6 +7273,8 @@
 						)
 					)
 				)
+				(alternate "SDHC_WP" bidirectional line)
+				(alternate "SPIXF_SS0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -15.24 0)
@@ -7205,6 +7293,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_CLK" bidirectional line)
+				(alternate "SDHC_DAT3" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -38.1 0)
@@ -7223,6 +7313,8 @@
 						)
 					)
 				)
+				(alternate "HYP_CS1N" bidirectional line)
+				(alternate "PDOWN" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -17.78 0)
@@ -7241,6 +7333,8 @@
 						)
 					)
 				)
+				(alternate "SDHC_DAT0" bidirectional line)
+				(alternate "SPIXF_SDIO0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -27.94 0)
@@ -7259,6 +7353,8 @@
 						)
 					)
 				)
+				(alternate "PT2" bidirectional line)
+				(alternate "UART2_RTS" bidirectional line)
 			)
 			(pin power_out line
 				(at 17.78 -86.36 90)
@@ -7295,6 +7391,8 @@
 						)
 					)
 				)
+				(alternate "PT3" bidirectional line)
+				(alternate "UART2_RX" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -22.86 0)
@@ -7313,6 +7411,8 @@
 						)
 					)
 				)
+				(alternate "PT0" bidirectional line)
+				(alternate "SDHC_DAT1" bidirectional line)
 			)
 			(pin power_in line
 				(at 15.24 86.36 270)
@@ -7349,6 +7449,8 @@
 						)
 					)
 				)
+				(alternate "PT4" bidirectional line)
+				(alternate "UART2_TX" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -20.32 0)
@@ -7367,6 +7469,8 @@
 						)
 					)
 				)
+				(alternate "SDHC_CLK" bidirectional line)
+				(alternate "SPIXF_SCK" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -40.64 0)
@@ -7385,6 +7489,8 @@
 						)
 					)
 				)
+				(alternate "HYP_CS0N" bidirectional line)
+				(alternate "SPIXR_SDIO0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -53.34 0)
@@ -7403,6 +7509,8 @@
 						)
 					)
 				)
+				(alternate "HYP_D0" bidirectional line)
+				(alternate "SPIXR_SDIO1" bidirectional line)
 			)
 			(pin power_in line
 				(at -7.62 86.36 270)
@@ -7457,6 +7565,8 @@
 						)
 					)
 				)
+				(alternate "HYP_D4" bidirectional line)
+				(alternate "SPIXR_SS0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -33.02 180)
@@ -7475,6 +7585,8 @@
 						)
 					)
 				)
+				(alternate "PT6" bidirectional line)
+				(alternate "SPIXR_SDIO3" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -55.88 0)
@@ -7493,6 +7605,8 @@
 						)
 					)
 				)
+				(alternate "HYP_D1" bidirectional line)
+				(alternate "SPIXR_SDIO2" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -66.04 0)
@@ -7511,6 +7625,8 @@
 						)
 					)
 				)
+				(alternate "HYP_D5" bidirectional line)
+				(alternate "SPIXR_SCK" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 66.04 0)
@@ -7566,6 +7682,8 @@
 						)
 					)
 				)
+				(alternate "32KCAL" bidirectional line)
+				(alternate "SDHC_CDN" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -58.42 0)
@@ -7584,6 +7702,8 @@
 						)
 					)
 				)
+				(alternate "HYP_D2" bidirectional line)
+				(alternate "PT7" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -68.58 0)
@@ -7602,6 +7722,8 @@
 						)
 					)
 				)
+				(alternate "HYP_D6" bidirectional line)
+				(alternate "PT6" bidirectional line)
 			)
 			(pin unspecified line
 				(at -35.56 -48.26 0)
@@ -7656,6 +7778,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_HSYNC" bidirectional line)
+				(alternate "HYP_D3" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -71.12 0)
@@ -7674,6 +7798,8 @@
 						)
 					)
 				)
+				(alternate "HYP_D7" bidirectional line)
+				(alternate "PT8" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -45.72 0)
@@ -7692,6 +7818,8 @@
 						)
 					)
 				)
+				(alternate "HYP_RWDS" bidirectional line)
+				(alternate "PT5" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 -33.02 0)
@@ -7710,6 +7838,7 @@
 						)
 					)
 				)
+				(alternate "PT9" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 63.5 0)
@@ -7747,6 +7876,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_B1" bidirectional line)
+				(alternate "SPI1_SS0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -50.8 180)
@@ -7765,6 +7896,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_R0" bidirectional line)
+				(alternate "OWM_PUPEN" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -63.5 180)
@@ -7783,6 +7916,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_B3" bidirectional line)
+				(alternate "SPI1_SS1" bidirectional line)
 			)
 			(pin no_connect line
 				(at -10.16 -86.36 90)
@@ -8144,6 +8279,7 @@
 						)
 					)
 				)
+				(alternate "TMR5" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 27.94 180)
@@ -8162,6 +8298,7 @@
 						)
 					)
 				)
+				(alternate "TMR4" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -66.04 180)
@@ -8180,6 +8317,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_B2" bidirectional line)
+				(alternate "SPI1_SS2" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -48.26 180)
@@ -8198,6 +8337,8 @@
 						)
 					)
 				)
+				(alternate "CLCD_R1" bidirectional line)
+				(alternate "OWM_IO" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 22.86 180)
@@ -8216,6 +8357,7 @@
 						)
 					)
 				)
+				(alternate "TMR3" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 30.48 180)
@@ -8234,6 +8376,7 @@
 						)
 					)
 				)
+				(alternate "TMR2" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 25.4 180)
@@ -8252,6 +8395,7 @@
 						)
 					)
 				)
+				(alternate "TMR1" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 33.02 180)
@@ -8270,6 +8414,7 @@
 						)
 					)
 				)
+				(alternate "TMR0" bidirectional line)
 			)
 			(pin power_out line
 				(at 27.94 -86.36 90)
