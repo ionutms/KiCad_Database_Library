@@ -3544,6 +3544,30 @@
 					(type none)
 				)
 			)
+			(polyline
+				(pts
+					(xy -0.635 6.35) (xy -0.635 -6.35)
+				)
+				(stroke
+					(width 0)
+					(type dash)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.635 6.35) (xy 0.635 -6.35)
+				)
+				(stroke
+					(width 0)
+					(type dash)
+				)
+				(fill
+					(type none)
+				)
+			)
 		)
 	)
 	(symbol "MAX14483AAP+"
