@@ -3388,7 +3388,7 @@
 		)
 		(symbol "MAX12930EASA+_0_1"
 			(pin power_in line
-				(at -10.16 3.81 0)
+				(at -12.7 3.81 0)
 				(length 2.54)
 				(name "VDDA"
 					(effects
@@ -3406,7 +3406,7 @@
 				)
 			)
 			(pin input line
-				(at -10.16 1.27 0)
+				(at -12.7 1.27 0)
 				(length 2.54)
 				(name "IN1"
 					(effects
@@ -3424,7 +3424,7 @@
 				)
 			)
 			(pin input line
-				(at -10.16 -1.27 0)
+				(at -12.7 -1.27 0)
 				(length 2.54)
 				(name "IN2"
 					(effects
@@ -3442,7 +3442,7 @@
 				)
 			)
 			(pin power_out line
-				(at -10.16 -3.81 0)
+				(at -12.7 -3.81 0)
 				(length 2.54)
 				(name "GNDA"
 					(effects
@@ -3460,7 +3460,7 @@
 				)
 			)
 			(pin power_out line
-				(at 10.16 -3.81 180)
+				(at 12.7 -3.81 180)
 				(length 2.54)
 				(name "GNDB"
 					(effects
@@ -3478,7 +3478,7 @@
 				)
 			)
 			(pin output line
-				(at 10.16 -1.27 180)
+				(at 12.7 -1.27 180)
 				(length 2.54)
 				(name "OUT2"
 					(effects
@@ -3496,7 +3496,7 @@
 				)
 			)
 			(pin output line
-				(at 10.16 1.27 180)
+				(at 12.7 1.27 180)
 				(length 2.54)
 				(name "OUT1"
 					(effects
@@ -3514,7 +3514,7 @@
 				)
 			)
 			(pin power_in line
-				(at 10.16 3.81 180)
+				(at 12.7 3.81 180)
 				(length 2.54)
 				(name "VDDB"
 					(effects
@@ -3534,8 +3534,8 @@
 		)
 		(symbol "MAX12930EASA+_1_1"
 			(rectangle
-				(start -7.62 6.35)
-				(end 7.62 -6.35)
+				(start -10.16 6.35)
+				(end 10.16 -6.35)
 				(stroke
 					(width 0)
 					(type default)
