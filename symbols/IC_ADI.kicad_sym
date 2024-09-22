@@ -4982,7 +4982,7 @@
 			)
 		)
 		(property "Footprint" "footprints:21-0041_S16&plus_1_MXM"
-			(at 0.254 -15.24 0)
+			(at 0.254 -20.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,7 +4992,7 @@
 			)
 		)
 		(property "Datasheet" "MAX14933ASE+"
-			(at 0.254 -12.954 0)
+			(at -0.254 -17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5002,7 +5002,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -10.16 8.89 0)
+			(at -12.7 8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5030,7 +5030,7 @@
 		)
 		(symbol "MAX14933ASE+_0_1"
 			(pin power_in line
-				(at -10.16 8.89 0)
+				(at -12.7 8.89 0)
 				(length 2.54)
 				(name "GNDA"
 					(effects
@@ -5048,7 +5048,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 10.16 -6.35 180)
+				(at 12.7 -6.35 180)
 				(length 2.54)
 				(name "IC"
 					(effects
@@ -5066,7 +5066,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 10.16 -3.81 180)
+				(at 12.7 -3.81 180)
 				(length 2.54)
 				(name "I/OB2"
 					(effects
@@ -5084,7 +5084,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 10.16 -1.27 180)
+				(at 12.7 -1.27 180)
 				(length 2.54)
 				(name "I/OB1"
 					(effects
@@ -5101,26 +5101,8 @@
 					)
 				)
 			)
-			(pin no_connect line
-				(at 10.16 1.27 180)
-				(length 2.54)
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
-				(at 10.16 3.81 180)
+				(at 12.7 3.81 180)
 				(length 2.54)
 				(name "VDDB"
 					(effects
@@ -5138,7 +5120,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 10.16 6.35 180)
+				(at 12.7 6.35 180)
 				(length 2.54)
 				(name "IC"
 					(effects
@@ -5156,7 +5138,7 @@
 				)
 			)
 			(pin power_in line
-				(at 10.16 8.89 180)
+				(at 12.7 8.89 180)
 				(length 2.54)
 				(name "GNDB"
 					(effects
@@ -5174,7 +5156,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -10.16 6.35 0)
+				(at -12.7 6.35 0)
 				(length 2.54)
 				(name "IC"
 					(effects
@@ -5192,7 +5174,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 3.81 0)
+				(at -12.7 3.81 0)
 				(length 2.54)
 				(name "VDDA"
 					(effects
@@ -5209,26 +5191,8 @@
 					)
 				)
 			)
-			(pin no_connect line
-				(at -10.16 1.27 0)
-				(length 2.54)
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
-				(at -10.16 -1.27 0)
+				(at -12.7 -1.27 0)
 				(length 2.54)
 				(name "I/OA1"
 					(effects
@@ -5246,7 +5210,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -10.16 -3.81 0)
+				(at -12.7 -3.81 0)
 				(length 2.54)
 				(name "I/OA2"
 					(effects
@@ -5264,7 +5228,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 -6.35 0)
+				(at -12.7 -6.35 0)
 				(length 2.54)
 				(name "GNDA"
 					(effects
@@ -5282,7 +5246,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -10.16 -8.89 0)
+				(at -12.7 -8.89 0)
 				(length 2.54)
 				(name "IC"
 					(effects
@@ -5300,7 +5264,7 @@
 				)
 			)
 			(pin power_in line
-				(at 10.16 -8.89 180)
+				(at 12.7 -8.89 180)
 				(length 2.54)
 				(name "GNDB"
 					(effects
@@ -5320,14 +5284,74 @@
 		)
 		(symbol "MAX14933ASE+_1_1"
 			(rectangle
-				(start -7.62 11.43)
-				(end 7.62 -11.43)
+				(start -10.16 11.43)
+				(end 10.16 -11.43)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
 					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.635 -11.43) (xy -0.635 11.43)
+				)
+				(stroke
+					(width 0)
+					(type dash)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.635 -11.43) (xy 0.635 11.43)
+				)
+				(stroke
+					(width 0)
+					(type dash)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin no_connect line
+				(at 12.7 1.27 180)
+				(length 2.54) hide
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -12.7 1.27 0)
+				(length 2.54) hide
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
 				)
 			)
 		)
