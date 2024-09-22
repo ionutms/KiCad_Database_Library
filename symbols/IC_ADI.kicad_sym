@@ -2090,7 +2090,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 38.1 22.86 0)
+			(at 57.15 39.116 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -2098,7 +2098,7 @@
 			)
 		)
 		(property "Value" "ADP1032ACPZ-5-R7"
-			(at 38.1 20.32 0)
+			(at 57.15 36.576 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -2106,7 +2106,7 @@
 			)
 		)
 		(property "Footprint" "footprints:CP-41-1_ADI"
-			(at 38.1 -22.86 0)
+			(at 57.15 -6.604 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2116,7 +2116,7 @@
 			)
 		)
 		(property "Datasheet" "ADP1032ACPZ-5-R7"
-			(at 38.1 -20.32 0)
+			(at 57.15 -4.064 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2126,7 +2126,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 17.78 20.32 90)
+			(at 36.83 -11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2154,7 +2154,7 @@
 		)
 		(symbol "ADP1032ACPZ-5-R7_0_1"
 			(pin output line
-				(at 17.78 20.32 270)
+				(at -17.78 -25.4 0)
 				(length 2.54)
 				(name "MI"
 					(effects
@@ -2172,7 +2172,7 @@
 				)
 			)
 			(pin power_in line
-				(at 22.86 -20.32 90)
+				(at 17.78 -17.78 180)
 				(length 2.54)
 				(name "SVDD1"
 					(effects
@@ -2189,62 +2189,8 @@
 					)
 				)
 			)
-			(pin no_connect line
-				(at -12.7 -20.32 90)
-				(length 2.54)
-				(name "DNC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -15.24 -20.32 90)
-				(length 2.54)
-				(name "DNC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -17.78 -20.32 90)
-				(length 2.54)
-				(name "DNC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin input line
-				(at -7.62 -20.32 90)
+				(at 17.78 27.94 180)
 				(length 2.54)
 				(name "SYNC"
 					(effects
@@ -2262,7 +2208,7 @@
 				)
 			)
 			(pin power_in line
-				(at -25.4 -20.32 90)
+				(at 17.78 22.86 180)
 				(length 2.54)
 				(name "VOUT2"
 					(effects
@@ -2280,7 +2226,7 @@
 				)
 			)
 			(pin power_out line
-				(at -40.64 -10.16 0)
+				(at 17.78 -7.62 180)
 				(length 2.54)
 				(name "SGND2"
 					(effects
@@ -2298,7 +2244,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -22.86 -20.32 90)
+				(at 17.78 20.32 180)
 				(length 2.54)
 				(name "SW2"
 					(effects
@@ -2316,7 +2262,7 @@
 				)
 			)
 			(pin power_in line
-				(at -33.02 -20.32 90)
+				(at 17.78 30.48 180)
 				(length 2.54)
 				(name "VOUT1"
 					(effects
@@ -2334,7 +2280,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -30.48 -20.32 90)
+				(at 17.78 33.02 180)
 				(length 2.54)
 				(name "FB1"
 					(effects
@@ -2352,7 +2298,7 @@
 				)
 			)
 			(pin power_in line
-				(at 25.4 -20.32 90)
+				(at 17.78 -5.08 180)
 				(length 2.54)
 				(name "SVDD2"
 					(effects
@@ -2370,7 +2316,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 -20.32 90)
+				(at 17.78 -2.54 180)
 				(length 2.54)
 				(name "SGPI3"
 					(effects
@@ -2388,7 +2334,7 @@
 				)
 			)
 			(pin output line
-				(at 7.62 -20.32 90)
+				(at 17.78 0 180)
 				(length 2.54)
 				(name "SPGO2"
 					(effects
@@ -2406,7 +2352,7 @@
 				)
 			)
 			(pin output line
-				(at 5.08 -20.32 90)
+				(at 17.78 2.54 180)
 				(length 2.54)
 				(name "SPGO1"
 					(effects
@@ -2423,62 +2369,8 @@
 					)
 				)
 			)
-			(pin no_connect line
-				(at 40.64 -2.54 180)
-				(length 2.54)
-				(name "DNC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -40.64 -7.62 0)
-				(length 2.54)
-				(name "DNC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at -40.64 -5.08 0)
-				(length 2.54)
-				(name "DNC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "26"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_out line
-				(at -40.64 -2.54 0)
+				(at 17.78 12.7 180)
 				(length 2.54)
 				(name "SGND2"
 					(effects
@@ -2496,7 +2388,7 @@
 				)
 			)
 			(pin power_out line
-				(at -25.4 20.32 270)
+				(at -17.78 33.02 0)
 				(length 2.54)
 				(name "PGNDP"
 					(effects
@@ -2514,7 +2406,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -40.64 2.54 0)
+				(at -17.78 30.48 0)
 				(length 2.54)
 				(name "SWP"
 					(effects
@@ -2532,7 +2424,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 15.24 180)
+				(at -17.78 -33.02 0)
 				(length 2.54)
 				(name "MGND"
 					(effects
@@ -2550,7 +2442,7 @@
 				)
 			)
 			(pin power_in line
-				(at -40.64 5.08 0)
+				(at -17.78 27.94 0)
 				(length 2.54)
 				(name "VINP"
 					(effects
@@ -2568,7 +2460,7 @@
 				)
 			)
 			(pin input line
-				(at -33.02 20.32 270)
+				(at -17.78 25.4 0)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -2586,7 +2478,7 @@
 				)
 			)
 			(pin input line
-				(at -30.48 20.32 270)
+				(at -17.78 22.86 0)
 				(length 2.54)
 				(name "SLEW"
 					(effects
@@ -2604,7 +2496,7 @@
 				)
 			)
 			(pin power_out line
-				(at -27.94 20.32 270)
+				(at -17.78 20.32 0)
 				(length 2.54)
 				(name "GNDP"
 					(effects
@@ -2622,7 +2514,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 12.7 180)
+				(at -17.78 17.78 0)
 				(length 2.54)
 				(name "MGND"
 					(effects
@@ -2640,7 +2532,7 @@
 				)
 			)
 			(pin power_out line
-				(at 2.54 20.32 270)
+				(at -17.78 15.24 0)
 				(length 2.54)
 				(name "PWRGD"
 					(effects
@@ -2658,7 +2550,7 @@
 				)
 			)
 			(pin input line
-				(at 5.08 20.32 270)
+				(at -17.78 2.54 0)
 				(length 2.54)
 				(name "MGPI1"
 					(effects
@@ -2676,7 +2568,7 @@
 				)
 			)
 			(pin input line
-				(at 7.62 20.32 270)
+				(at -17.78 0 0)
 				(length 2.54)
 				(name "MGPI2"
 					(effects
@@ -2694,7 +2586,7 @@
 				)
 			)
 			(pin output line
-				(at 10.16 20.32 270)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name "MGPO3"
 					(effects
@@ -2712,7 +2604,7 @@
 				)
 			)
 			(pin power_in line
-				(at 22.86 20.32 270)
+				(at -17.78 -17.78 0)
 				(length 2.54)
 				(name "MVDD"
 					(effects
@@ -2730,7 +2622,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 -7.62 180)
+				(at 17.78 -33.02 180)
 				(length 2.54)
 				(name "SGND2"
 					(effects
@@ -2748,7 +2640,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 20.32 270)
+				(at -17.78 -20.32 0)
 				(length 2.54)
 				(name "MCK"
 					(effects
@@ -2766,7 +2658,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 20.32 270)
+				(at -17.78 -22.86 0)
 				(length 2.54)
 				(name "MO"
 					(effects
@@ -2784,7 +2676,7 @@
 				)
 			)
 			(pin power_out line
-				(at -22.86 20.32 270)
+				(at -17.78 7.62 0)
 				(length 2.54)
 				(name "EPGNDM"
 					(effects
@@ -2802,7 +2694,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 10.16 180)
+				(at -17.78 12.7 0)
 				(length 2.54)
 				(name "EPGNDP"
 					(effects
@@ -2820,7 +2712,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 -5.08 180)
+				(at 17.78 15.24 180)
 				(length 2.54)
 				(name "EPGND2"
 					(effects
@@ -2838,7 +2730,7 @@
 				)
 			)
 			(pin power_out line
-				(at 40.64 -10.16 180)
+				(at 17.78 -30.48 180)
 				(length 2.54)
 				(name "SGND1"
 					(effects
@@ -2856,7 +2748,7 @@
 				)
 			)
 			(pin input line
-				(at 17.78 -20.32 90)
+				(at 17.78 -25.4 180)
 				(length 2.54)
 				(name "SO"
 					(effects
@@ -2874,7 +2766,7 @@
 				)
 			)
 			(pin output line
-				(at 15.24 -20.32 90)
+				(at 17.78 -22.86 180)
 				(length 2.54)
 				(name "SI"
 					(effects
@@ -2892,7 +2784,7 @@
 				)
 			)
 			(pin output line
-				(at 12.7 -20.32 90)
+				(at 17.78 -20.32 180)
 				(length 2.54)
 				(name "SCK"
 					(effects
@@ -2912,8 +2804,8 @@
 		)
 		(symbol "ADP1032ACPZ-5-R7_1_1"
 			(rectangle
-				(start -38.1 17.78)
-				(end 38.1 -17.78)
+				(start -15.24 35.56)
+				(end 15.24 -35.56)
 				(stroke
 					(width 0)
 					(type default)
@@ -2922,8 +2814,98 @@
 					(type none)
 				)
 			)
+			(polyline
+				(pts
+					(xy 0.635 -35.56) (xy 0.635 35.56)
+				)
+				(stroke
+					(width 0)
+					(type dash)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -15.24 9.525) (xy -0.635 9.525) (xy -0.635 -35.56)
+				)
+				(stroke
+					(width 0)
+					(type dash)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -15.24 10.795) (xy -0.635 10.795) (xy -0.635 35.56)
+				)
+				(stroke
+					(width 0)
+					(type dash)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin no_connect line
+				(at 17.78 -15.24 180)
+				(length 2.54) hide
+				(name "DNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 17.78 -12.7 180)
+				(length 2.54) hide
+				(name "DNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 17.78 -10.16 180)
+				(length 2.54) hide
+				(name "DNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin input line
-				(at 20.32 20.32 270)
+				(at -17.78 -27.94 0)
 				(length 2.54)
 				(name "~{MSS}"
 					(effects
@@ -2940,8 +2922,62 @@
 					)
 				)
 			)
+			(pin no_connect line
+				(at 17.78 5.08 180)
+				(length 2.54) hide
+				(name "DNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 17.78 7.62 180)
+				(length 2.54) hide
+				(name "DNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 17.78 10.16 180)
+				(length 2.54) hide
+				(name "DNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin output line
-				(at 20.32 -20.32 90)
+				(at 17.78 -27.94 180)
 				(length 2.54)
 				(name "~{SSS}"
 					(effects
