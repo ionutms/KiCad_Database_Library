@@ -6134,6 +6134,7 @@
 						)
 					)
 				)
+				(alternate "SPIXF_SS0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 15.24 180)
@@ -6332,6 +6333,7 @@
 						)
 					)
 				)
+				(alternate "SPIXF_SCK" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -5.08 180)
@@ -6638,6 +6640,7 @@
 						)
 					)
 				)
+				(alternate "SPIXF_SDIO1" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -43.18 180)
@@ -6674,6 +6677,7 @@
 						)
 					)
 				)
+				(alternate "SPIXF_SDIO0" bidirectional line)
 			)
 			(pin power_in line
 				(at -5.08 86.36 270)
@@ -6728,6 +6732,7 @@
 						)
 					)
 				)
+				(alternate "SPIXR_SDIO0" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -30.48 180)
@@ -6782,6 +6787,7 @@
 						)
 					)
 				)
+				(alternate "SPIXF_SDIO2" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 45.72 0)
@@ -6800,6 +6806,7 @@
 						)
 					)
 				)
+				(alternate "SPIXF_SDIO3" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 17.78 0)
@@ -6926,6 +6933,7 @@
 						)
 					)
 				)
+				(alternate "SPIXR_SDIO2" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 35.56 0)
@@ -7124,6 +7132,7 @@
 						)
 					)
 				)
+				(alternate "SPIXR_SCK" bidirectional line)
 			)
 			(pin bidirectional line
 				(at -35.56 15.24 0)
@@ -7520,6 +7529,7 @@
 						)
 					)
 				)
+				(alternate "SPIXR_SDIO3" bidirectional line)
 			)
 			(pin power_out line
 				(at 15.24 -86.36 90)
@@ -7718,6 +7728,7 @@
 						)
 					)
 				)
+				(alternate "SPIXR_SDIO1" bidirectional line)
 			)
 			(pin bidirectional line
 				(at 35.56 -68.58 180)
@@ -7916,6 +7927,7 @@
 						)
 					)
 				)
+				(alternate "SPIXR_SS0" bidirectional line)
 			)
 			(pin power_out line
 				(at 12.7 -86.36 90)
