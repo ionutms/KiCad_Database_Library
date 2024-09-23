@@ -254,7 +254,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 -48.26 180)
+				(at -21.59 -2.54 0)
 				(length 2.54)
 				(name "GPO_A"
 					(effects
@@ -290,7 +290,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 -50.8 180)
+				(at -21.59 -5.08 0)
 				(length 2.54)
 				(name "GPO_B"
 					(effects
@@ -308,7 +308,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 -53.34 180)
+				(at -21.59 -7.62 0)
 				(length 2.54)
 				(name "GPO_C"
 					(effects
@@ -326,7 +326,7 @@
 				)
 			)
 			(pin output line
-				(at 21.59 -55.88 180)
+				(at -21.59 -10.16 0)
 				(length 2.54)
 				(name "GPO_D"
 					(effects
@@ -902,7 +902,7 @@
 				)
 			)
 			(pin output line
-				(at -21.59 -6.35 0)
+				(at -21.59 2.54 0)
 				(length 2.54)
 				(name "SDO"
 					(effects
@@ -992,7 +992,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -21.59 -1.27 0)
+				(at -21.59 7.62 0)
 				(length 2.54)
 				(name "SCLK"
 					(effects
@@ -1028,7 +1028,7 @@
 				)
 			)
 			(pin input line
-				(at -21.59 1.27 0)
+				(at -21.59 10.16 0)
 				(length 2.54)
 				(name "SDI"
 					(effects
@@ -1203,7 +1203,7 @@
 				)
 			)
 			(pin input line
-				(at -21.59 -3.81 0)
+				(at -21.59 5.08 0)
 				(length 2.54)
 				(name "~{LDAC}"
 					(effects
@@ -1221,7 +1221,7 @@
 				)
 			)
 			(pin input line
-				(at -21.59 3.81 0)
+				(at -21.59 12.7 0)
 				(length 2.54)
 				(name "~{SYNC}"
 					(effects
@@ -1239,7 +1239,7 @@
 				)
 			)
 			(pin input line
-				(at -21.59 6.35 0)
+				(at -21.59 15.24 0)
 				(length 2.54)
 				(name "~{RESET}"
 					(effects
