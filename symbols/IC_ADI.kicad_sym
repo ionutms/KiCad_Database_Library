@@ -5773,7 +5773,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 -25.4 0)
+			(at 35.56 -12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5812,7 +5812,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 -25.4 180)
+				(at 35.56 -12.7 180)
 				(length 5.08)
 				(name "P2.16"
 					(effects
@@ -6262,7 +6262,7 @@
 				(alternate "SPIXF_SS0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 15.24 180)
+				(at 35.56 27.94 180)
 				(length 5.08)
 				(name "P2.0"
 					(effects
@@ -6282,7 +6282,7 @@
 				(alternate "SPI2_SS2" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 12.7 180)
+				(at 35.56 25.4 180)
 				(length 5.08)
 				(name "P2.1"
 					(effects
@@ -6302,7 +6302,7 @@
 				(alternate "SPI2_SS1" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 10.16 180)
+				(at 35.56 22.86 180)
 				(length 5.08)
 				(name "P2.2"
 					(effects
@@ -6322,7 +6322,7 @@
 				(alternate "SPI2_SCK (I2S-BCLK)" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 7.62 180)
+				(at 35.56 20.32 180)
 				(length 5.08)
 				(name "P2.3"
 					(effects
@@ -6342,7 +6342,7 @@
 				(alternate "SPI2_MISO (I2S-SDI)" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 5.08 180)
+				(at 35.56 17.78 180)
 				(length 5.08)
 				(name "P2.4"
 					(effects
@@ -6361,7 +6361,7 @@
 				(alternate "SPI2_MOSI (I2S-SDO)" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 2.54 180)
+				(at 35.56 15.24 180)
 				(length 5.08)
 				(name "P2.5"
 					(effects
@@ -6399,7 +6399,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 0 180)
+				(at 35.56 12.7 180)
 				(length 5.08)
 				(name "P2.6"
 					(effects
@@ -6437,7 +6437,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 -2.54 180)
+				(at 35.56 10.16 180)
 				(length 5.08)
 				(name "P2.7"
 					(effects
@@ -6475,7 +6475,7 @@
 				(alternate "SPIXF_SCK" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -5.08 180)
+				(at 35.56 7.62 180)
 				(length 5.08)
 				(name "P2.8"
 					(effects
@@ -6494,7 +6494,7 @@
 				(alternate "I2C0_SCL" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -7.62 180)
+				(at 35.56 5.08 180)
 				(length 5.08)
 				(name "P2.9"
 					(effects
@@ -6514,7 +6514,7 @@
 				(alternate "UART0_CTS" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -12.7 180)
+				(at 35.56 0 180)
 				(length 5.08)
 				(name "P2.11"
 					(effects
@@ -6534,7 +6534,7 @@
 				(alternate "UART0_RX" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -35.56 180)
+				(at 35.56 -22.86 180)
 				(length 5.08)
 				(name "P2.25"
 					(effects
@@ -6553,7 +6553,7 @@
 				(alternate "PT11" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -10.16 180)
+				(at 35.56 2.54 180)
 				(length 5.08)
 				(name "P2.10"
 					(effects
@@ -6573,7 +6573,7 @@
 				(alternate "UART0_RTS" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -38.1 180)
+				(at 35.56 -25.4 180)
 				(length 5.08)
 				(name "P2.26"
 					(effects
@@ -6610,7 +6610,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 -15.24 180)
+				(at 35.56 -2.54 180)
 				(length 5.08)
 				(name "P2.12"
 					(effects
@@ -6649,7 +6649,7 @@
 				(alternate "SPI0_MISO" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -40.64 180)
+				(at 35.56 -27.94 180)
 				(length 5.08)
 				(name "P2.28"
 					(effects
@@ -6686,7 +6686,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 -17.78 180)
+				(at 35.56 -5.08 180)
 				(length 5.08)
 				(name "P2.13"
 					(effects
@@ -6744,7 +6744,7 @@
 				(alternate "SPI0_SCK" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -20.32 180)
+				(at 35.56 -7.62 180)
 				(length 5.08)
 				(name "P2.14"
 					(effects
@@ -6764,7 +6764,7 @@
 				(alternate "UART1_RX" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -22.86 180)
+				(at 35.56 -10.16 180)
 				(length 5.08)
 				(name "P2.15"
 					(effects
@@ -6803,7 +6803,7 @@
 				(alternate "SPIXF_SDIO1" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -43.18 180)
+				(at 35.56 -30.48 180)
 				(length 5.08)
 				(name "P2.30"
 					(effects
@@ -6859,7 +6859,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 -27.94 180)
+				(at 35.56 -15.24 180)
 				(length 5.08)
 				(name "P2.17"
 					(effects
@@ -6898,7 +6898,7 @@
 				(alternate "SPIXR_SDIO0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -30.48 180)
+				(at 35.56 -17.78 180)
 				(length 5.08)
 				(name "P2.18"
 					(effects
@@ -7677,7 +7677,7 @@
 				(alternate "SPIXR_SS0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -33.02 180)
+				(at 35.56 -20.32 180)
 				(length 5.08)
 				(name "P2.23"
 					(effects
@@ -8064,7 +8064,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 -53.34 180)
+				(at 35.56 -40.64 180)
 				(length 5.08)
 				(name "P1.22"
 					(effects
@@ -8371,7 +8371,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 20.32 180)
+				(at 35.56 33.02 180)
 				(length 5.08)
 				(name "P3.9"
 					(effects
@@ -8390,7 +8390,7 @@
 				(alternate "TMR5" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 27.94 180)
+				(at 35.56 -50.8 180)
 				(length 5.08)
 				(name "P3.6"
 					(effects
@@ -8409,7 +8409,7 @@
 				(alternate "TMR4" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -50.8 180)
+				(at 35.56 -38.1 180)
 				(length 5.08)
 				(name "P1.24"
 					(effects
@@ -8429,7 +8429,7 @@
 				(alternate "SPI1_SS2" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -48.26 180)
+				(at 35.56 -35.56 180)
 				(length 5.08)
 				(name "P1.31"
 					(effects
@@ -8449,7 +8449,7 @@
 				(alternate "OWM_IO" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 22.86 180)
+				(at 35.56 -55.88 180)
 				(length 5.08)
 				(name "P3.8"
 					(effects
@@ -8468,7 +8468,7 @@
 				(alternate "TMR3" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 30.48 180)
+				(at 35.56 -48.26 180)
 				(length 5.08)
 				(name "P3.5"
 					(effects
@@ -8487,7 +8487,7 @@
 				(alternate "TMR2" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 25.4 180)
+				(at 35.56 -53.34 180)
 				(length 5.08)
 				(name "P3.7"
 					(effects
@@ -8506,7 +8506,7 @@
 				(alternate "TMR1" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 33.02 180)
+				(at 35.56 -45.72 180)
 				(length 5.08)
 				(name "P3.4"
 					(effects
