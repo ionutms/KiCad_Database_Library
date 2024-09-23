@@ -7014,7 +7014,7 @@
 				(alternate "UART1_RTS" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 30.48 0)
+				(at -35.56 27.94 0)
 				(length 5.08)
 				(name "P0.9"
 					(effects
@@ -7052,7 +7052,7 @@
 				(alternate "PT1" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 27.94 0)
+				(at -35.56 30.48 0)
 				(length 5.08)
 				(name "P0.10"
 					(effects
