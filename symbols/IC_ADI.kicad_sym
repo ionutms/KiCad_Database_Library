@@ -4048,7 +4048,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 14.732 37.846 0)
+			(at 14.478 46.482 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4056,7 +4056,7 @@
 			)
 		)
 		(property "Value" "MAX14906ATM+"
-			(at 16.002 34.798 0)
+			(at 15.748 40.894 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4064,7 +4064,7 @@
 			)
 		)
 		(property "Footprint" "footprints:21-0144H_T4877-6"
-			(at 22.606 -47.244 0)
+			(at 22.606 -52.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4074,7 +4074,7 @@
 			)
 		)
 		(property "Datasheet" "MAX14906ATM+"
-			(at 23.114 -51.054 0)
+			(at 23.114 -56.134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4084,7 +4084,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -33.02 13.97 0)
+			(at -33.02 8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4112,8 +4112,8 @@
 		)
 		(symbol "MAX14906ATM+_1_1"
 			(rectangle
-				(start -15.24 33.02)
-				(end 15.24 -33.02)
+				(start -15.24 38.1)
+				(end 15.24 -38.1)
 				(stroke
 					(width 0)
 					(type default)
@@ -4123,7 +4123,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 27.94 0)
+				(at -17.78 33.02 0)
 				(length 2.54)
 				(name "A1"
 					(effects
@@ -4141,7 +4141,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -10.16 0)
+				(at -17.78 -15.24 0)
 				(length 2.54)
 				(name "VLED"
 					(effects
@@ -4159,7 +4159,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 35.56 270)
+				(at 0 40.64 270)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -4177,7 +4177,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 22.86 0)
+				(at -17.78 27.94 0)
 				(length 2.54)
 				(name "CRCEN"
 					(effects
@@ -4195,7 +4195,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 -2.54 0)
+				(at -17.78 -7.62 0)
 				(length 2.54)
 				(name "D1"
 					(effects
@@ -4213,7 +4213,7 @@
 				)
 			)
 			(pin power_in line
-				(at -5.08 -35.56 90)
+				(at -5.08 -40.64 90)
 				(length 2.54)
 				(name "PGND"
 					(effects
@@ -4231,7 +4231,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -30.48 180)
+				(at 17.78 -22.86 180)
 				(length 2.54)
 				(name "DOI1"
 					(effects
@@ -4249,7 +4249,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -27.94 180)
+				(at 17.78 -20.32 180)
 				(length 2.54)
 				(name "DOI1"
 					(effects
@@ -4267,7 +4267,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -22.86 180)
+				(at 17.78 -15.24 180)
 				(length 2.54)
 				(name "VDD1"
 					(effects
@@ -4285,7 +4285,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 -25.4 180)
+				(at 17.78 -17.78 180)
 				(length 2.54)
 				(name "G1"
 					(effects
@@ -4303,7 +4303,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 -12.7 180)
+				(at 17.78 -5.08 180)
 				(length 2.54)
 				(name "G2"
 					(effects
@@ -4321,7 +4321,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 30.48 0)
+				(at -17.78 35.56 0)
 				(length 2.54)
 				(name "A0"
 					(effects
@@ -4339,7 +4339,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 -10.16 180)
+				(at 17.78 -2.54 180)
 				(length 2.54)
 				(name "VDD2"
 					(effects
@@ -4357,7 +4357,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -17.78 180)
+				(at 17.78 -10.16 180)
 				(length 2.54)
 				(name "DOI2"
 					(effects
@@ -4375,7 +4375,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -15.24 180)
+				(at 17.78 -7.62 180)
 				(length 2.54)
 				(name "DOI2"
 					(effects
@@ -4393,7 +4393,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 -35.56 90)
+				(at -2.54 -40.64 90)
 				(length 2.54)
 				(name "PGND"
 					(effects
@@ -4411,7 +4411,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 0 0)
+				(at -17.78 -5.08 0)
 				(length 2.54)
 				(name "D2"
 					(effects
@@ -4429,7 +4429,7 @@
 				)
 			)
 			(pin input line
-				(at -5.08 35.56 270)
+				(at -5.08 40.64 270)
 				(length 2.54)
 				(name "VL"
 					(effects
@@ -4447,7 +4447,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 27.94 180)
+				(at -17.78 5.08 0)
 				(length 2.54)
 				(name "~{READY}"
 					(effects
@@ -4465,7 +4465,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 25.4 180)
+				(at -17.78 7.62 0)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -4483,7 +4483,7 @@
 				)
 			)
 			(pin input line
-				(at 5.08 35.56 270)
+				(at 5.08 40.64 270)
 				(length 2.54)
 				(name "REGEN"
 					(effects
@@ -4501,7 +4501,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 22.86 180)
+				(at -17.78 10.16 0)
 				(length 2.54)
 				(name "~{FAULT}"
 					(effects
@@ -4519,7 +4519,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 30.48 180)
+				(at 17.78 33.02 180)
 				(length 2.54)
 				(name "~{VDDOK}"
 					(effects
@@ -4537,7 +4537,7 @@
 				)
 			)
 			(pin power_in line
-				(at -7.62 -35.56 90)
+				(at -7.62 -40.64 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4555,7 +4555,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 35.56 270)
+				(at -2.54 40.64 270)
 				(length 2.54)
 				(name "V5"
 					(effects
@@ -4573,7 +4573,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 20.32 0)
+				(at -17.78 25.4 0)
 				(length 2.54)
 				(name "SDO"
 					(effects
@@ -4591,7 +4591,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 17.78 0)
+				(at -17.78 22.86 0)
 				(length 2.54)
 				(name "CLK"
 					(effects
@@ -4609,7 +4609,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 15.24 0)
+				(at -17.78 20.32 0)
 				(length 2.54)
 				(name "~{CS}"
 					(effects
@@ -4627,7 +4627,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 12.7 0)
+				(at -17.78 17.78 0)
 				(length 2.54)
 				(name "SDI"
 					(effects
@@ -4645,7 +4645,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 10.16 0)
+				(at -17.78 12.7 0)
 				(length 2.54)
 				(name "SYNCH"
 					(effects
@@ -4663,7 +4663,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 2.54 0)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name "D3"
 					(effects
@@ -4681,7 +4681,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -35.56 90)
+				(at 0 -40.64 90)
 				(length 2.54)
 				(name "PGND"
 					(effects
@@ -4699,7 +4699,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -5.08 180)
+				(at 17.78 2.54 180)
 				(length 2.54)
 				(name "DOI3"
 					(effects
@@ -4717,7 +4717,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -27.94 0)
+				(at -17.78 -33.02 0)
 				(length 2.54)
 				(name "FLED"
 					(effects
@@ -4735,7 +4735,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 -2.54 180)
+				(at 17.78 5.08 180)
 				(length 2.54)
 				(name "DOI3"
 					(effects
@@ -4753,7 +4753,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 2.54 180)
+				(at 17.78 10.16 180)
 				(length 2.54)
 				(name "VDD3"
 					(effects
@@ -4771,7 +4771,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 0 180)
+				(at 17.78 7.62 180)
 				(length 2.54)
 				(name "G3"
 					(effects
@@ -4789,7 +4789,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 12.7 180)
+				(at 17.78 20.32 180)
 				(length 2.54)
 				(name "G4"
 					(effects
@@ -4807,7 +4807,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 15.24 180)
+				(at 17.78 22.86 180)
 				(length 2.54)
 				(name "VDD4"
 					(effects
@@ -4825,7 +4825,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 7.62 180)
+				(at 17.78 15.24 180)
 				(length 2.54)
 				(name "DOI4"
 					(effects
@@ -4843,7 +4843,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 17.78 10.16 180)
+				(at 17.78 17.78 180)
 				(length 2.54)
 				(name "DOI4"
 					(effects
@@ -4861,7 +4861,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 -35.56 90)
+				(at 2.54 -40.64 90)
 				(length 2.54)
 				(name "PGND"
 					(effects
@@ -4879,7 +4879,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 5.08 0)
+				(at -17.78 0 0)
 				(length 2.54)
 				(name "D4"
 					(effects
@@ -4897,7 +4897,7 @@
 				)
 			)
 			(pin power_in line
-				(at 7.62 -35.56 90)
+				(at 7.62 -40.64 90)
 				(length 2.54)
 				(name "EPAD"
 					(effects
@@ -4915,7 +4915,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -15.24 0)
+				(at -17.78 -20.32 0)
 				(length 2.54)
 				(name "L4"
 					(effects
@@ -4933,7 +4933,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -17.78 0)
+				(at -17.78 -22.86 0)
 				(length 2.54)
 				(name "L3"
 					(effects
@@ -4951,7 +4951,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -20.32 0)
+				(at -17.78 -25.4 0)
 				(length 2.54)
 				(name "L2"
 					(effects
@@ -4969,7 +4969,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -22.86 0)
+				(at -17.78 -27.94 0)
 				(length 2.54)
 				(name "L1"
 					(effects
@@ -4987,7 +4987,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -30.48 0)
+				(at -17.78 -35.56 0)
 				(length 2.54)
 				(name "SLED"
 					(effects
