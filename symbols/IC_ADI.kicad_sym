@@ -6145,7 +6145,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 -60.96 180)
+				(at 35.56 -68.58 180)
 				(length 5.08)
 				(name "P1.26"
 					(effects
@@ -6165,7 +6165,7 @@
 				(alternate "SPI1_SCK" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -58.42 180)
+				(at 35.56 -66.04 180)
 				(length 5.08)
 				(name "P1.27"
 					(effects
@@ -6185,7 +6185,7 @@
 				(alternate "SPI1_SS3" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -55.88 180)
+				(at 35.56 -63.5 180)
 				(length 5.08)
 				(name "P1.28"
 					(effects
@@ -6205,7 +6205,7 @@
 				(alternate "SPI1_MISO" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -53.34 180)
+				(at 35.56 -60.96 180)
 				(length 5.08)
 				(name "P1.29"
 					(effects
@@ -7968,7 +7968,7 @@
 				(alternate "SPIXR_SDIO1" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -68.58 180)
+				(at 35.56 -73.66 180)
 				(length 5.08)
 				(name "P1.23"
 					(effects
@@ -7988,7 +7988,7 @@
 				(alternate "SPI1_SS0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -50.8 180)
+				(at 35.56 -58.42 180)
 				(length 5.08)
 				(name "P1.30"
 					(effects
@@ -8008,7 +8008,7 @@
 				(alternate "OWM_PUPEN" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -63.5 180)
+				(at 35.56 -71.12 180)
 				(length 5.08)
 				(name "P1.25"
 					(effects
@@ -8064,7 +8064,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 -71.12 180)
+				(at 35.56 -55.88 180)
 				(length 5.08)
 				(name "P1.22"
 					(effects
@@ -8409,7 +8409,7 @@
 				(alternate "TMR4" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -66.04 180)
+				(at 35.56 -50.8 180)
 				(length 5.08)
 				(name "P1.24"
 					(effects
