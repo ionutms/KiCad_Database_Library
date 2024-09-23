@@ -4048,7 +4048,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 12.7 44.196 0)
+			(at 14.732 37.846 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4056,7 +4056,7 @@
 			)
 		)
 		(property "Value" "MAX14906ATM+"
-			(at 14.732 39.116 0)
+			(at 16.002 34.798 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -4159,7 +4159,7 @@
 				)
 			)
 			(pin power_in line
-				(at 1.27 35.56 270)
+				(at 0 35.56 270)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -4195,7 +4195,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 -3.81 0)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name "D1"
 					(effects
@@ -4213,7 +4213,7 @@
 				)
 			)
 			(pin power_in line
-				(at -3.81 -35.56 90)
+				(at -5.08 -35.56 90)
 				(length 2.54)
 				(name "PGND"
 					(effects
@@ -4393,7 +4393,7 @@
 				)
 			)
 			(pin power_in line
-				(at -1.27 -35.56 90)
+				(at -2.54 -35.56 90)
 				(length 2.54)
 				(name "PGND"
 					(effects
@@ -4411,7 +4411,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 -1.27 0)
+				(at -17.78 0 0)
 				(length 2.54)
 				(name "D2"
 					(effects
@@ -4429,7 +4429,7 @@
 				)
 			)
 			(pin input line
-				(at -3.81 35.56 270)
+				(at -5.08 35.56 270)
 				(length 2.54)
 				(name "VL"
 					(effects
@@ -4483,7 +4483,7 @@
 				)
 			)
 			(pin input line
-				(at 3.81 35.56 270)
+				(at 5.08 35.56 270)
 				(length 2.54)
 				(name "REGEN"
 					(effects
@@ -4537,7 +4537,7 @@
 				)
 			)
 			(pin power_in line
-				(at -6.35 -35.56 90)
+				(at -7.62 -35.56 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4555,7 +4555,7 @@
 				)
 			)
 			(pin power_in line
-				(at -1.27 35.56 270)
+				(at -2.54 35.56 270)
 				(length 2.54)
 				(name "V5"
 					(effects
@@ -4663,7 +4663,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 1.27 0)
+				(at -17.78 2.54 0)
 				(length 2.54)
 				(name "D3"
 					(effects
@@ -4681,7 +4681,7 @@
 				)
 			)
 			(pin power_in line
-				(at 1.27 -35.56 90)
+				(at 0 -35.56 90)
 				(length 2.54)
 				(name "PGND"
 					(effects
@@ -4861,7 +4861,7 @@
 				)
 			)
 			(pin power_in line
-				(at 3.81 -35.56 90)
+				(at 2.54 -35.56 90)
 				(length 2.54)
 				(name "PGND"
 					(effects
@@ -4879,7 +4879,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -17.78 3.81 0)
+				(at -17.78 5.08 0)
 				(length 2.54)
 				(name "D4"
 					(effects
@@ -4897,7 +4897,7 @@
 				)
 			)
 			(pin power_in line
-				(at 6.35 -35.56 90)
+				(at 7.62 -35.56 90)
 				(length 2.54)
 				(name "EPAD"
 					(effects
