@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP8_200MIL_MAC"
+		(property "Footprint" "footprints:SOP8_200MIL_MAC"
 			(at 10.16 -17.018 0)
 			(effects
 				(font
@@ -52,14 +52,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "ki_keywords" "MX25U6432FM2I02"
