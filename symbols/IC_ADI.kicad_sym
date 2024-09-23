@@ -7129,7 +7129,7 @@
 				(alternate "SPI3_SCK" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -15.24 180)
+				(at 35.56 -22.86 180)
 				(length 5.08)
 				(name "P0.17"
 					(effects
@@ -7149,7 +7149,7 @@
 				(alternate "SPI3_SDIO2" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -17.78 180)
+				(at 35.56 -15.24 180)
 				(length 5.08)
 				(name "P0.18"
 					(effects
@@ -7207,7 +7207,7 @@
 				(alternate "SPI3_SS0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -20.32 180)
+				(at 35.56 -17.78 180)
 				(length 5.08)
 				(name "P0.20"
 					(effects
@@ -7227,7 +7227,7 @@
 				(alternate "SPI3_SDIO1" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 -22.86 180)
+				(at 35.56 -20.32 180)
 				(length 5.08)
 				(name "P0.21"
 					(effects
