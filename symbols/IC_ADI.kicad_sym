@@ -7266,7 +7266,7 @@
 				(alternate "SPIXF_SDIO3" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -25.4 0)
+				(at -35.56 -20.32 0)
 				(length 5.08)
 				(name "P1.7"
 					(effects
@@ -7425,7 +7425,7 @@
 				(alternate "PDOWN" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -17.78 0)
+				(at -35.56 -25.4 0)
 				(length 5.08)
 				(name "P1.4"
 					(effects
@@ -7445,7 +7445,7 @@
 				(alternate "SPIXF_SDIO0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -27.94 0)
+				(at -35.56 -30.48 0)
 				(length 5.08)
 				(name "P1.8"
 					(effects
@@ -7483,7 +7483,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 -30.48 0)
+				(at -35.56 -33.02 0)
 				(length 5.08)
 				(name "P1.9"
 					(effects
@@ -7503,7 +7503,7 @@
 				(alternate "UART2_RX" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -22.86 0)
+				(at -35.56 -27.94 0)
 				(length 5.08)
 				(name "P1.6"
 					(effects
@@ -7561,7 +7561,7 @@
 				(alternate "UART2_TX" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -20.32 0)
+				(at -35.56 -17.78 0)
 				(length 5.08)
 				(name "P1.5"
 					(effects
@@ -7930,7 +7930,7 @@
 				(alternate "PT5" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -33.02 0)
+				(at -35.56 -22.86 0)
 				(length 5.08)
 				(name "P1.17"
 					(effects
