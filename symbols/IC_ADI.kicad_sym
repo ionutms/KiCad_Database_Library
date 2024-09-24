@@ -6176,7 +6176,7 @@
 			(pin no_connect line
 				(at -25.4 -86.36 90)
 				(length 5.08)
-				(name "N.C."
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6230,7 +6230,7 @@
 			(pin no_connect line
 				(at -27.94 -86.36 90)
 				(length 5.08)
-				(name "N.C."
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8260,7 +8260,7 @@
 			(pin no_connect line
 				(at -10.16 -86.36 90)
 				(length 5.08)
-				(name "N.C."
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8278,7 +8278,7 @@
 			(pin no_connect line
 				(at -12.7 -86.36 90)
 				(length 5.08)
-				(name "N.C."
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8332,7 +8332,7 @@
 			(pin no_connect line
 				(at -15.24 -86.36 90)
 				(length 5.08)
-				(name "N.C."
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8368,7 +8368,7 @@
 			(pin no_connect line
 				(at -17.78 -86.36 90)
 				(length 5.08)
-				(name "N.C."
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8441,7 +8441,7 @@
 			(pin no_connect line
 				(at -20.32 -86.36 90)
 				(length 5.08)
-				(name "N.C."
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8477,7 +8477,7 @@
 			(pin no_connect line
 				(at -22.86 -86.36 90)
 				(length 5.08)
-				(name "N.C."
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8510,10 +8510,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin no_connect line
 				(at -6.35 -86.36 90)
 				(length 5.08)
-				(name "D.N.C"
+				(name "DNC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8528,10 +8528,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin no_connect line
 				(at -3.81 -86.36 90)
 				(length 5.08)
-				(name "D.N.C"
+				(name "DNC"
 					(effects
 						(font
 							(size 1.27 1.27)
