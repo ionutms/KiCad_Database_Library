@@ -6031,7 +6031,7 @@
 		)
 		(symbol "MAX32650GCE+_1_1"
 			(rectangle
-				(start -30.48 91.44)
+				(start -30.48 86.36)
 				(end 30.48 -81.28)
 				(stroke
 					(width 0)
@@ -6042,7 +6042,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 73.66 180)
+				(at 35.56 50.8 180)
 				(length 5.08)
 				(name "P2.16"
 					(effects
@@ -6062,7 +6062,7 @@
 				(alternate "UART1_TX" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 76.2 180)
+				(at 35.56 53.34 180)
 				(length 5.08)
 				(name "P0.22"
 					(effects
@@ -6101,7 +6101,7 @@
 				(alternate "TDO" bidirectional line)
 			)
 			(pin input line
-				(at -35.56 35.56 0)
+				(at -35.56 45.72 0)
 				(length 5.08)
 				(name "AIN3"
 					(effects
@@ -6119,7 +6119,7 @@
 				)
 			)
 			(pin input line
-				(at -35.56 38.1 0)
+				(at -35.56 48.26 0)
 				(length 5.08)
 				(name "AIN2"
 					(effects
@@ -6156,7 +6156,7 @@
 				(alternate "TDI" bidirectional line)
 			)
 			(pin input line
-				(at -35.56 40.64 0)
+				(at -35.56 50.8 0)
 				(length 5.08)
 				(name "AIN1"
 					(effects
@@ -6192,7 +6192,7 @@
 				)
 			)
 			(pin output line
-				(at -35.56 30.48 0)
+				(at -35.56 40.64 0)
 				(length 5.08)
 				(name "32KOUT"
 					(effects
@@ -6210,7 +6210,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 27.94 0)
+				(at -35.56 38.1 0)
 				(length 5.08)
 				(name "32KIN"
 					(effects
@@ -6246,7 +6246,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 43.18 0)
+				(at -35.56 53.34 0)
 				(length 5.08)
 				(name "AIN0"
 					(effects
@@ -6282,7 +6282,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 55.88 0)
+				(at 35.56 76.2 180)
 				(length 5.08)
 				(name "P0.29"
 					(effects
@@ -6301,7 +6301,7 @@
 				(alternate "TCK (SWDCLK)" bidirectional line)
 			)
 			(pin unspecified line
-				(at 22.86 96.52 270)
+				(at 22.86 91.44 270)
 				(length 5.08)
 				(name "VRTC"
 					(effects
@@ -6319,7 +6319,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 -5.08 0)
+				(at -35.56 5.08 0)
 				(length 5.08)
 				(name "P0.30"
 					(effects
@@ -6338,7 +6338,7 @@
 				(alternate "CLCD_B0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 53.34 0)
+				(at 35.56 73.66 180)
 				(length 5.08)
 				(name "P0.28"
 					(effects
@@ -6357,7 +6357,7 @@
 				(alternate "TMS (SWDIO)" bidirectional line)
 			)
 			(pin unspecified line
-				(at -35.56 58.42 0)
+				(at 35.56 78.74 180)
 				(length 5.08)
 				(name "RSTN"
 					(effects
@@ -6473,7 +6473,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 76.2 0)
+				(at -35.56 71.12 0)
 				(length 5.08)
 				(name "P0.7"
 					(effects
@@ -6611,7 +6611,7 @@
 				(alternate "SPI2_SS0 (I2S_LRCLK)" bidirectional line)
 			)
 			(pin power_in line
-				(at -22.86 96.52 270)
+				(at -22.86 91.44 270)
 				(length 5.08)
 				(name "VDDIO"
 					(effects
@@ -6649,7 +6649,7 @@
 				(alternate "SPI2_SS3" bidirectional line)
 			)
 			(pin power_in line
-				(at -10.16 96.52 270)
+				(at -10.16 91.44 270)
 				(length 5.08)
 				(name "VDDIOH"
 					(effects
@@ -6686,7 +6686,7 @@
 				(alternate "I2C0_SDA" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 73.66 0)
+				(at -35.56 68.58 0)
 				(length 5.08)
 				(name "P0.8"
 					(effects
@@ -6744,7 +6744,7 @@
 				(alternate "UART0_CTS" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 50.8 0)
+				(at 35.56 71.12 180)
 				(length 5.08)
 				(name "P2.11"
 					(effects
@@ -6803,7 +6803,7 @@
 				(alternate "UART0_RTS" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 43.18 180)
+				(at -35.56 -30.48 0)
 				(length 5.08)
 				(name "P2.26"
 					(effects
@@ -6840,7 +6840,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 48.26 0)
+				(at 35.56 68.58 180)
 				(length 5.08)
 				(name "P2.12"
 					(effects
@@ -6860,7 +6860,7 @@
 				(alternate "UART0_TX" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 83.82 180)
+				(at 35.56 60.96 180)
 				(length 5.08)
 				(name "P3.1"
 					(effects
@@ -6879,7 +6879,7 @@
 				(alternate "SPI0_MISO" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 40.64 180)
+				(at -35.56 -33.02 0)
 				(length 5.08)
 				(name "P2.28"
 					(effects
@@ -6898,7 +6898,7 @@
 				(alternate "PT14" bidirectional line)
 			)
 			(pin unspecified line
-				(at 12.7 96.52 270)
+				(at 12.7 91.44 270)
 				(length 5.08)
 				(name "VCORE"
 					(effects
@@ -6916,7 +6916,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 -30.48 0)
+				(at -35.56 -20.32 0)
 				(length 5.08)
 				(name "P2.13"
 					(effects
@@ -6936,7 +6936,7 @@
 				(alternate "UART1_CTS" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 81.28 180)
+				(at 35.56 58.42 180)
 				(length 5.08)
 				(name "P3.2"
 					(effects
@@ -6955,7 +6955,7 @@
 				(alternate "SPI0_MOSI" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 78.74 180)
+				(at 35.56 55.88 180)
 				(length 5.08)
 				(name "P3.3"
 					(effects
@@ -6974,7 +6974,7 @@
 				(alternate "SPI0_SCK" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -33.02 0)
+				(at -35.56 -22.86 0)
 				(length 5.08)
 				(name "P2.14"
 					(effects
@@ -6994,7 +6994,7 @@
 				(alternate "UART1_RX" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -35.56 0)
+				(at -35.56 -25.4 0)
 				(length 5.08)
 				(name "P2.15"
 					(effects
@@ -7014,7 +7014,7 @@
 				(alternate "UART1_RTS" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 68.58 0)
+				(at -35.56 63.5 0)
 				(length 5.08)
 				(name "P0.9"
 					(effects
@@ -7033,7 +7033,7 @@
 				(alternate "SPIXF_SDIO1" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 38.1 180)
+				(at -35.56 -35.56 0)
 				(length 5.08)
 				(name "P2.30"
 					(effects
@@ -7052,7 +7052,7 @@
 				(alternate "PT1" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 71.12 0)
+				(at -35.56 66.04 0)
 				(length 5.08)
 				(name "P0.10"
 					(effects
@@ -7071,7 +7071,7 @@
 				(alternate "SPIXF_SDIO0" bidirectional line)
 			)
 			(pin power_in line
-				(at -5.08 96.52 270)
+				(at -5.08 91.44 270)
 				(length 5.08)
 				(name "VDDIOH"
 					(effects
@@ -7089,7 +7089,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 63.5 180)
+				(at 35.56 38.1 180)
 				(length 5.08)
 				(name "P2.17"
 					(effects
@@ -7109,7 +7109,7 @@
 				(alternate "I2C1_SDA" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 71.12 180)
+				(at 35.56 48.26 180)
 				(length 5.08)
 				(name "P0.1"
 					(effects
@@ -7128,7 +7128,7 @@
 				(alternate "SPIXR_SDIO0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 60.96 180)
+				(at 35.56 35.56 180)
 				(length 5.08)
 				(name "P2.18"
 					(effects
@@ -7148,7 +7148,7 @@
 				(alternate "I2C1_SCL" bidirectional line)
 			)
 			(pin power_in line
-				(at -15.24 96.52 270)
+				(at -15.24 91.44 270)
 				(length 5.08)
 				(name "VDDIO"
 					(effects
@@ -7166,7 +7166,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 66.04 0)
+				(at -35.56 60.96 0)
 				(length 5.08)
 				(name "P0.11"
 					(effects
@@ -7185,7 +7185,7 @@
 				(alternate "SPIXF_SDIO2" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 63.5 0)
+				(at -35.56 58.42 0)
 				(length 5.08)
 				(name "P0.12"
 					(effects
@@ -7204,7 +7204,7 @@
 				(alternate "SPIXF_SDIO3" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 2.54 0)
+				(at -35.56 12.7 0)
 				(length 5.08)
 				(name "P0.23"
 					(effects
@@ -7224,7 +7224,7 @@
 				(alternate "PT15" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 12.7 0)
+				(at -35.56 22.86 0)
 				(length 5.08)
 				(name "P0.13"
 					(effects
@@ -7244,7 +7244,7 @@
 				(alternate "SPI3_SS1" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 10.16 0)
+				(at -35.56 20.32 0)
 				(length 5.08)
 				(name "P0.14"
 					(effects
@@ -7282,7 +7282,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 7.62 0)
+				(at -35.56 17.78 0)
 				(length 5.08)
 				(name "P0.15"
 					(effects
@@ -7320,7 +7320,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 35.56 68.58 180)
+				(at 35.56 45.72 180)
 				(length 5.08)
 				(name "P0.2"
 					(effects
@@ -7399,7 +7399,7 @@
 				(alternate "SPI3_SS3" bidirectional line)
 			)
 			(pin power_in line
-				(at -17.78 96.52 270)
+				(at -17.78 91.44 270)
 				(length 5.08)
 				(name "VDDIO"
 					(effects
@@ -7417,7 +7417,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 5.08 0)
+				(at -35.56 15.24 0)
 				(length 5.08)
 				(name "P0.19"
 					(effects
@@ -7476,7 +7476,7 @@
 				(alternate "SPI3_SDIO0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -12.7 0)
+				(at -35.56 -2.54 0)
 				(length 5.08)
 				(name "P1.0"
 					(effects
@@ -7496,7 +7496,7 @@
 				(alternate "SPIXF_SDIO3" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -22.86 0)
+				(at -35.56 -12.7 0)
 				(length 5.08)
 				(name "P1.7"
 					(effects
@@ -7516,7 +7516,7 @@
 				(alternate "UART2_CTS" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 58.42 180)
+				(at 35.56 33.02 180)
 				(length 5.08)
 				(name "P1.1"
 					(effects
@@ -7536,7 +7536,7 @@
 				(alternate "SPIXF_SDIO1" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 22.86 0)
+				(at -35.56 33.02 0)
 				(length 5.08)
 				(name "P0.3"
 					(effects
@@ -7555,7 +7555,7 @@
 				(alternate "SPIXR_SCK" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 0 0)
+				(at -35.56 10.16 0)
 				(length 5.08)
 				(name "P0.24"
 					(effects
@@ -7575,7 +7575,7 @@
 				(alternate "RXEV" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -2.54 0)
+				(at -35.56 7.62 0)
 				(length 5.08)
 				(name "P0.25"
 					(effects
@@ -7595,7 +7595,7 @@
 				(alternate "TXEV" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -15.24 0)
+				(at -35.56 -5.08 0)
 				(length 5.08)
 				(name "P1.2"
 					(effects
@@ -7615,7 +7615,7 @@
 				(alternate "SPIXF_SS0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -17.78 0)
+				(at -35.56 -7.62 0)
 				(length 5.08)
 				(name "P1.3"
 					(effects
@@ -7753,7 +7753,7 @@
 				(alternate "SDHC_DAT1" bidirectional line)
 			)
 			(pin power_in line
-				(at 15.24 96.52 270)
+				(at 15.24 91.44 270)
 				(length 5.08)
 				(name "VCORE"
 					(effects
@@ -7791,7 +7791,7 @@
 				(alternate "UART2_TX" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -20.32 0)
+				(at -35.56 -10.16 0)
 				(length 5.08)
 				(name "P1.5"
 					(effects
@@ -7851,7 +7851,7 @@
 				(alternate "SPIXR_SDIO1" bidirectional line)
 			)
 			(pin power_in line
-				(at -7.62 96.52 270)
+				(at -7.62 91.44 270)
 				(length 5.08)
 				(name "VDDIOH"
 					(effects
@@ -7869,7 +7869,7 @@
 				)
 			)
 			(pin power_in line
-				(at -20.32 96.52 270)
+				(at -20.32 91.44 270)
 				(length 5.08)
 				(name "VDDIO"
 					(effects
@@ -7907,7 +7907,7 @@
 				(alternate "SPIXR_SS0" bidirectional line)
 			)
 			(pin bidirectional line
-				(at 35.56 45.72 180)
+				(at -35.56 -27.94 0)
 				(length 5.08)
 				(name "P2.23"
 					(effects
@@ -7967,7 +7967,7 @@
 				(alternate "SPIXR_SCK" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 20.32 0)
+				(at -35.56 30.48 0)
 				(length 5.08)
 				(name "P0.4"
 					(effects
@@ -8004,7 +8004,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 -7.62 0)
+				(at -35.56 2.54 0)
 				(length 5.08)
 				(name "P0.31"
 					(effects
@@ -8160,7 +8160,7 @@
 				(alternate "PT5" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 -25.4 0)
+				(at -35.56 -15.24 0)
 				(length 5.08)
 				(name "P1.17"
 					(effects
@@ -8179,7 +8179,7 @@
 				(alternate "PT9" bidirectional line)
 			)
 			(pin bidirectional line
-				(at -35.56 17.78 0)
+				(at -35.56 27.94 0)
 				(length 5.08)
 				(name "P0.5"
 					(effects
@@ -8312,7 +8312,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 96.52 270)
+				(at 2.54 91.44 270)
 				(length 5.08)
 				(name "VDDB"
 					(effects
@@ -8348,7 +8348,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -35.56 83.82 0)
+				(at -35.56 78.74 0)
 				(length 5.08)
 				(name "DP"
 					(effects
@@ -8384,7 +8384,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -35.56 15.24 0)
+				(at -35.56 25.4 0)
 				(length 5.08)
 				(name "P0.6"
 					(effects
@@ -8457,7 +8457,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -35.56 81.28 0)
+				(at -35.56 76.2 0)
 				(length 5.08)
 				(name "DM"
 					(effects
@@ -8547,7 +8547,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 96.52 270)
+				(at 17.78 91.44 270)
 				(length 5.08)
 				(name "VCORE"
 					(effects
@@ -8583,7 +8583,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 96.52 270)
+				(at -2.54 91.44 270)
 				(length 5.08)
 				(name "VDDIOH"
 					(effects
@@ -8773,7 +8773,7 @@
 				)
 			)
 			(pin power_in line
-				(at 7.62 96.52 270)
+				(at 7.62 91.44 270)
 				(length 5.08)
 				(name "VDDA"
 					(effects
