@@ -8800,7 +8800,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 15.24 0)
+			(at -3.302 18.288 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -8808,7 +8808,7 @@
 			)
 		)
 		(property "Value" "MAXQ1065GTC+"
-			(at 0 11.43 0)
+			(at -9.398 14.732 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -8816,7 +8816,7 @@
 			)
 		)
 		(property "Footprint" "footprints:21-0664_TD1233&plus_1C_MXM"
-			(at 22.606 -13.716 0)
+			(at 31.75 -10.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8826,7 +8826,7 @@
 			)
 		)
 		(property "Datasheet" "MAXQ1065GTC+"
-			(at 10.922 -11.43 0)
+			(at 20.066 -8.636 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8836,7 +8836,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -15.24 6.35 0)
+			(at -12.7 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8864,7 +8864,7 @@
 		)
 		(symbol "MAXQ1065GTC+_0_1"
 			(pin unspecified line
-				(at -15.24 6.35 0)
+				(at 7.62 15.24 270)
 				(length 2.54)
 				(name "CEXT"
 					(effects
@@ -8882,7 +8882,7 @@
 				)
 			)
 			(pin output line
-				(at 15.24 1.27 180)
+				(at -12.7 -7.62 0)
 				(length 2.54)
 				(name "RESET_OUT"
 					(effects
@@ -8900,7 +8900,7 @@
 				)
 			)
 			(pin output line
-				(at 15.24 3.81 180)
+				(at -12.7 -10.16 0)
 				(length 2.54)
 				(name "RDY"
 					(effects
@@ -8918,7 +8918,7 @@
 				)
 			)
 			(pin power_in line
-				(at 15.24 6.35 180)
+				(at 2.54 15.24 270)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -8936,7 +8936,7 @@
 				)
 			)
 			(pin power_out line
-				(at 0 -11.43 90)
+				(at 7.62 -15.24 90)
 				(length 2.54)
 				(name "EP"
 					(effects
@@ -8954,7 +8954,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 3.81 0)
+				(at -12.7 10.16 0)
 				(length 2.54)
 				(name "SPIS_SCK"
 					(effects
@@ -8972,7 +8972,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 1.27 0)
+				(at -12.7 7.62 0)
 				(length 2.54)
 				(name "SPIS_MOSI"
 					(effects
@@ -8990,7 +8990,7 @@
 				)
 			)
 			(pin output line
-				(at -15.24 -1.27 0)
+				(at -12.7 5.08 0)
 				(length 2.54)
 				(name "SPIS_MISO"
 					(effects
@@ -9008,7 +9008,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 -3.81 0)
+				(at -12.7 2.54 0)
 				(length 2.54)
 				(name "SPIS_SS"
 					(effects
@@ -9026,7 +9026,7 @@
 				)
 			)
 			(pin power_out line
-				(at -15.24 -6.35 0)
+				(at 2.54 -15.24 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -9044,7 +9044,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -6.35 180)
+				(at -12.7 0 0)
 				(length 2.54)
 				(name "PDWN"
 					(effects
@@ -9062,7 +9062,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 -3.81 180)
+				(at -12.7 -2.54 0)
 				(length 2.54)
 				(name "TAMPER_IN"
 					(effects
@@ -9080,7 +9080,7 @@
 				)
 			)
 			(pin input line
-				(at 15.24 -1.27 180)
+				(at -12.7 -5.08 0)
 				(length 2.54)
 				(name "WDI"
 					(effects
@@ -9100,8 +9100,8 @@
 		)
 		(symbol "MAXQ1065GTC+_1_1"
 			(rectangle
-				(start -12.7 8.89)
-				(end 12.7 -8.89)
+				(start -10.16 12.7)
+				(end 10.16 -12.7)
 				(stroke
 					(width 0)
 					(type default)
