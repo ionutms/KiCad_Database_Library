@@ -1361,7 +1361,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -17.78 -27.94 90)
+				(at -15.24 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1379,7 +1379,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -15.24 -27.94 90)
+				(at -12.7 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1397,7 +1397,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 27.94 -3.81 180)
+				(at 27.94 0 180)
 				(length 2.54)
 				(name "TXN"
 					(effects
@@ -1415,7 +1415,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 27.94 1.27 180)
+				(at 27.94 5.08 180)
 				(length 2.54)
 				(name "RXN"
 					(effects
@@ -1433,7 +1433,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 27.94 3.81 180)
+				(at 27.94 7.62 180)
 				(length 2.54)
 				(name "RXP"
 					(effects
@@ -1451,7 +1451,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 27.94 -1.27 180)
+				(at 27.94 2.54 180)
 				(length 2.54)
 				(name "TXP"
 					(effects
@@ -1505,7 +1505,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 7.62 -27.94 90)
+				(at 10.16 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1523,7 +1523,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 10.16 -27.94 90)
+				(at 12.7 -27.94 90)
 				(length 2.54)
 				(name "CEXT_2"
 					(effects
@@ -1559,7 +1559,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 15.24 -27.94 90)
+				(at 17.78 -27.94 90)
 				(length 2.54)
 				(name "CEXT_3"
 					(effects
@@ -1577,7 +1577,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 17.78 -27.94 90)
+				(at 20.32 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1651,7 +1651,7 @@
 			(pin output line
 				(at -27.94 0 0)
 				(length 2.54)
-				(name "*INT"
+				(name "~{INT}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1667,7 +1667,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -15.24 180)
+				(at 27.94 -12.7 180)
 				(length 2.54)
 				(name "TEST1"
 					(effects
@@ -1685,7 +1685,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 -17.78 180)
+				(at 27.94 -15.24 180)
 				(length 2.54)
 				(name "TEST2"
 					(effects
@@ -1703,7 +1703,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -12.7 -27.94 90)
+				(at -10.16 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1739,7 +1739,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 22.86 180)
+				(at 27.94 20.32 180)
 				(length 2.54)
 				(name "LED_0"
 					(effects
@@ -1775,9 +1775,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 20.32 0)
+				(at -27.94 15.24 0)
 				(length 2.54)
-				(name "*TX2P4_EN"
+				(name "~{TX2P4_EN}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1793,7 +1793,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -10.16 -27.94 90)
+				(at -7.62 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1811,9 +1811,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 22.86 0)
+				(at -27.94 17.78 0)
 				(length 2.54)
-				(name "*SWPD_EN"
+				(name "~{SWPD_EN}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1829,7 +1829,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -7.62 -27.94 90)
+				(at -5.08 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1865,7 +1865,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 -27.94 90)
+				(at -2.54 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1919,7 +1919,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -2.54 -27.94 90)
+				(at 0 -27.94 90)
 				(length 2.54)
 				(name "DNC"
 					(effects
@@ -1937,7 +1937,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 27.94 17.78 180)
+				(at -27.94 20.32 0)
 				(length 2.54)
 				(name "LINK_ST"
 					(effects
@@ -1973,7 +1973,7 @@
 				)
 			)
 			(pin power_out line
-				(at 2.54 -27.94 90)
+				(at 5.08 -27.94 90)
 				(length 2.54)
 				(name "EPAD"
 					(effects
@@ -1991,9 +1991,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 15.24 0)
+				(at -27.94 12.7 0)
 				(length 2.54)
-				(name "*RESET"
+				(name "~{RESET}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2009,7 +2009,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 27.94 20.32 180)
+				(at 27.94 17.78 180)
 				(length 2.54)
 				(name "LED_1"
 					(effects
@@ -2027,7 +2027,7 @@
 				)
 			)
 			(pin output line
-				(at -27.94 -10.16 0)
+				(at -27.94 -12.7 0)
 				(length 2.54)
 				(name "CLK25_REF"
 					(effects
@@ -2045,7 +2045,7 @@
 				)
 			)
 			(pin input line
-				(at -27.94 -15.24 0)
+				(at -27.94 -17.78 0)
 				(length 2.54)
 				(name "XTAL_I/CLK_IN"
 					(effects
@@ -2063,7 +2063,7 @@
 				)
 			)
 			(pin output line
-				(at -27.94 -17.78 0)
+				(at -27.94 -20.32 0)
 				(length 2.54)
 				(name "XTAL_O"
 					(effects
