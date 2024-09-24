@@ -8882,7 +8882,7 @@
 				)
 			)
 			(pin output line
-				(at -12.7 -7.62 0)
+				(at -12.7 10.16 0)
 				(length 2.54)
 				(name "RESET_OUT"
 					(effects
@@ -8900,7 +8900,7 @@
 				)
 			)
 			(pin output line
-				(at -12.7 -10.16 0)
+				(at -12.7 -7.62 0)
 				(length 2.54)
 				(name "RDY"
 					(effects
@@ -8954,7 +8954,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 10.16 0)
+				(at -12.7 7.62 0)
 				(length 2.54)
 				(name "SPIS_SCK"
 					(effects
@@ -8972,7 +8972,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 7.62 0)
+				(at -12.7 5.08 0)
 				(length 2.54)
 				(name "SPIS_MOSI"
 					(effects
@@ -8990,7 +8990,7 @@
 				)
 			)
 			(pin output line
-				(at -12.7 5.08 0)
+				(at -12.7 2.54 0)
 				(length 2.54)
 				(name "SPIS_MISO"
 					(effects
@@ -9008,7 +9008,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 2.54 0)
+				(at -12.7 0 0)
 				(length 2.54)
 				(name "SPIS_SS"
 					(effects
@@ -9044,7 +9044,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 0 0)
+				(at -12.7 -2.54 0)
 				(length 2.54)
 				(name "PDWN"
 					(effects
@@ -9062,7 +9062,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -2.54 0)
+				(at -12.7 -10.16 0)
 				(length 2.54)
 				(name "TAMPER_IN"
 					(effects
