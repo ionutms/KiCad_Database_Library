@@ -1343,7 +1343,7 @@
 		)
 		(symbol "ADIN1110CCPZ_1_1"
 			(pin unspecified line
-				(at -27.94 5.08 0)
+				(at -27.94 15.24 0)
 				(length 2.54)
 				(name "SDI"
 					(effects
@@ -1541,7 +1541,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 2.54 0)
+				(at -27.94 12.7 0)
 				(length 2.54)
 				(name "SDO/SPI_CFG0"
 					(effects
@@ -1649,7 +1649,7 @@
 				)
 			)
 			(pin output line
-				(at -27.94 0 0)
+				(at -27.94 7.62 0)
 				(length 2.54)
 				(name "~{INT}"
 					(effects
@@ -1721,7 +1721,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 10.16 0)
+				(at -27.94 20.32 0)
 				(length 2.54)
 				(name "~{CS}"
 					(effects
@@ -1757,7 +1757,7 @@
 				)
 			)
 			(pin output line
-				(at -27.94 -7.62 0)
+				(at -27.94 -5.08 0)
 				(length 2.54)
 				(name "TS_TIMER/MS_SEL"
 					(effects
@@ -1775,7 +1775,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 15.24 0)
+				(at -27.94 0 0)
 				(length 2.54)
 				(name "~{TX2P4_EN}"
 					(effects
@@ -1811,7 +1811,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 17.78 0)
+				(at -27.94 -2.54 0)
 				(length 2.54)
 				(name "~{SWPD_EN}"
 					(effects
@@ -1883,7 +1883,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 -2.54 0)
+				(at -27.94 10.16 0)
 				(length 2.54)
 				(name "SPI_CFG1"
 					(effects
@@ -1901,7 +1901,7 @@
 				)
 			)
 			(pin input line
-				(at -27.94 7.62 0)
+				(at -27.94 17.78 0)
 				(length 2.54)
 				(name "SCLK"
 					(effects
@@ -1937,7 +1937,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 20.32 0)
+				(at -27.94 2.54 0)
 				(length 2.54)
 				(name "LINK_ST"
 					(effects
@@ -1955,7 +1955,7 @@
 				)
 			)
 			(pin input line
-				(at -27.94 -5.08 0)
+				(at -27.94 -7.62 0)
 				(length 2.54)
 				(name "TS_CAPT"
 					(effects
@@ -1991,7 +1991,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -27.94 12.7 0)
+				(at -27.94 5.08 0)
 				(length 2.54)
 				(name "~{RESET}"
 					(effects
