@@ -2478,7 +2478,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 38.1 0)
+				(at -12.7 33.02 0)
 				(length 2.54)
 				(name "SLEW"
 					(effects
@@ -2532,7 +2532,7 @@
 				)
 			)
 			(pin power_out line
-				(at -12.7 33.02 0)
+				(at -12.7 35.56 0)
 				(length 2.54)
 				(name "PWRGD"
 					(effects
