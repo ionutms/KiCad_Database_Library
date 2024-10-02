@@ -2388,7 +2388,7 @@
 				)
 			)
 			(pin power_out line
-				(at -12.7 45.72 0)
+				(at -12.7 27.94 0)
 				(length 2.54)
 				(name "PGNDP"
 					(effects
@@ -2406,7 +2406,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 43.18 0)
+				(at -12.7 45.72 0)
 				(length 2.54)
 				(name "SWP"
 					(effects
@@ -2442,7 +2442,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 40.64 0)
+				(at -12.7 43.18 0)
 				(length 2.54)
 				(name "VINP"
 					(effects
@@ -2460,7 +2460,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 38.1 0)
+				(at -12.7 40.64 0)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -2478,7 +2478,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 35.56 0)
+				(at -12.7 38.1 0)
 				(length 2.54)
 				(name "SLEW"
 					(effects
@@ -2532,7 +2532,7 @@
 				)
 			)
 			(pin power_out line
-				(at -12.7 30.48 0)
+				(at -12.7 33.02 0)
 				(length 2.54)
 				(name "PWRGD"
 					(effects
