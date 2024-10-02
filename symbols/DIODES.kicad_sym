@@ -341,6 +341,7 @@
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "footprints:SOD123F_US1DWF_DIO"
