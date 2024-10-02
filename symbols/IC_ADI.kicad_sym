@@ -1266,7 +1266,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 33.274 31.496 0)
+			(at 20.32 31.496 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1274,7 +1274,7 @@
 			)
 		)
 		(property "Value" "ADIN1110CCPZ"
-			(at 34.798 27.94 0)
+			(at 21.844 27.94 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1282,7 +1282,7 @@
 			)
 		)
 		(property "Footprint" "footprints:CP-40-29_ADI"
-			(at -33.782 29.464 0)
+			(at 0.508 -43.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1292,7 +1292,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/adin1110.pdf"
-			(at -33.782 32.512 0)
+			(at 0.508 -40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1469,7 +1469,7 @@
 				)
 			)
 			(pin power_in line
-				(at -5.08 27.94 270)
+				(at 5.08 27.94 270)
 				(length 2.54)
 				(name "AVDD_H"
 					(effects
@@ -1487,7 +1487,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 27.94 270)
+				(at 2.54 27.94 270)
 				(length 2.54)
 				(name "AVDD_H"
 					(effects
@@ -1595,7 +1595,7 @@
 				)
 			)
 			(pin power_in line
-				(at -10.16 27.94 270)
+				(at 10.16 27.94 270)
 				(length 2.54)
 				(name "AVDD_L"
 					(effects
@@ -1613,7 +1613,7 @@
 				)
 			)
 			(pin power_in line
-				(at 5.08 27.94 270)
+				(at -5.08 27.94 270)
 				(length 2.54)
 				(name "DLDO_1P1"
 					(effects
@@ -1631,7 +1631,7 @@
 				)
 			)
 			(pin power_in line
-				(at 2.54 27.94 270)
+				(at -2.54 27.94 270)
 				(length 2.54)
 				(name "DVDD_1P1"
 					(effects
@@ -1847,7 +1847,7 @@
 				)
 			)
 			(pin power_in line
-				(at 10.16 27.94 270)
+				(at -10.16 27.94 270)
 				(length 2.54)
 				(name "VDDIO"
 					(effects
