@@ -287,7 +287,7 @@
 		)
 		(uuid "fa864aac-715d-40ea-94dc-301e12087bdf")
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/PowerPAK_1212-8.step"
+	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/PowerPAK_1212-8.step"
 		(offset
 			(xyz 0 0 0)
 		)

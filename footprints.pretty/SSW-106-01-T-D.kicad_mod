@@ -344,7 +344,7 @@
 		(remove_unused_layers no)
 		(uuid "6104ac55-e3d0-4eeb-a555-0db0ed60e197")
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/SSW-106-01-T-D.stp"
+	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/SSW-106-01-T-D.stp"
 		(offset
 			(xyz -1.27 -6.35 0)
 		)

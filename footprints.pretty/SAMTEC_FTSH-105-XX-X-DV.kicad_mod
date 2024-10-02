@@ -254,7 +254,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "7433a313-fbb1-42c0-b406-8b8c430d59bc")
 	)
-	(model "C:/Users/Mihai_Ionut/Documents/GitHub/KiCad_Database_Library_backup/3D_models/FTSH-105-01-L-DV-K.step"
+	(model "C:/Users/Mihai_Ionut/Documents/GitHub/KiCad_Database_Library/3D_models/FTSH-105-01-L-DV-K.step"
 		(offset
 			(xyz 0 0 0.381)
 		)

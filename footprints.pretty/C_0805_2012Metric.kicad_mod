@@ -164,7 +164,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "1e36b295-7e96-456f-a51a-a71b62e7b4c1")
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/C_0805.step"
+	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/C_0805.step"
 		(offset
 			(xyz 0 0 0)
 		)
