@@ -3845,13 +3845,13 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "6a57f907-dd7a-4b93-934a-7a4bf4418d33")
 	)
-	(pad "65" smd rect
+	(pad "PAD" smd rect
 		(at 0 0)
 		(size 7.6962 7.6962)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "b74f8299-df6a-4da7-bb5c-3bc85d5d02b9")
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/CP-64-15_ADI.step"
+	(model "${KIPRJMOD}/KiCad_Database_Library_backup/3D_models/CP-64-15_ADI.step"
 		(offset
 			(xyz 0 0 0)
 		)
