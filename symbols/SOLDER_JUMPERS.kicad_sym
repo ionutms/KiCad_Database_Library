@@ -9,7 +9,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "JP"
-			(at -2.54 -2.54 0)
+			(at 0 2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17,15 +17,16 @@
 			)
 		)
 		(property "Value" "SolderJumper_3_Open"
-			(at 0 2.794 0)
+			(at 0 4.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "footprints:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels"
-			(at 0 0 0)
+			(at 2.794 -13.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34,7 +35,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 4.572 -6.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43,7 +44,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 0 0 0)
+			(at 17.526 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
