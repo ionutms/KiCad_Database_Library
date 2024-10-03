@@ -5724,7 +5724,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 -17.78 0)
+				(at -12.7 -15.24 0)
 				(length 2.54)
 				(name "MODE/ILIM"
 					(effects
@@ -5850,7 +5850,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 -12.7 0)
+				(at -12.7 -10.16 0)
 				(length 2.54)
 				(name "RT/SYNC"
 					(effects
@@ -5904,7 +5904,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -12.7 -15.24 0)
+				(at -12.7 -12.7 0)
 				(length 2.54)
 				(name "SS"
 					(effects
