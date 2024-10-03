@@ -5642,7 +5642,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 12.954 16.002 0)
+			(at 12.954 20.574 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5650,7 +5650,7 @@
 			)
 		)
 		(property "Value" "MAX17761ATC+"
-			(at 13.716 12.954 0)
+			(at 13.716 17.526 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5658,7 +5658,7 @@
 			)
 		)
 		(property "Footprint" "footprints:21-0664_TD1233&plus_1C_MXM"
-			(at 28.448 -12.7 0)
+			(at 29.21 -21.082 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5668,7 +5668,7 @@
 			)
 		)
 		(property "Datasheet" "MAX17761ATC+"
-			(at 23.622 -15.494 0)
+			(at 24.384 -23.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5706,7 +5706,7 @@
 		)
 		(symbol "MAX17761ATC+_0_1"
 			(pin unspecified line
-				(at -17.78 7.62 0)
+				(at -17.78 12.7 0)
 				(length 2.54)
 				(name "VIN"
 					(effects
@@ -5742,7 +5742,7 @@
 				)
 			)
 			(pin power_out line
-				(at -5.08 -12.7 90)
+				(at -2.54 -17.78 90)
 				(length 2.54)
 				(name "SGND"
 					(effects
@@ -5760,7 +5760,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 7.62 180)
+				(at 17.78 12.7 180)
 				(length 2.54)
 				(name "LX"
 					(effects
@@ -5778,7 +5778,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 5.08 -12.7 90)
+				(at 2.54 -17.78 90)
 				(length 2.54)
 				(name "EPAD"
 					(effects
@@ -5796,7 +5796,7 @@
 				)
 			)
 			(pin power_out line
-				(at 0 -12.7 90)
+				(at 0 -17.78 90)
 				(length 2.54)
 				(name "PGND"
 					(effects
@@ -5814,7 +5814,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 12.7 270)
+				(at 17.78 -10.16 180)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -5832,7 +5832,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 2.54 0)
+				(at -17.78 0 0)
 				(length 2.54)
 				(name "EN/UVLO"
 					(effects
@@ -5850,7 +5850,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -2.54 0)
+				(at -17.78 -10.16 0)
 				(length 2.54)
 				(name "RT/SYNC"
 					(effects
@@ -5868,7 +5868,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 2.54 12.7 270)
+				(at 0 17.78 270)
 				(length 2.54)
 				(name "EXTVCC"
 					(effects
@@ -5886,7 +5886,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 17.78 2.54 180)
+				(at 17.78 0 180)
 				(length 2.54)
 				(name "FB"
 					(effects
@@ -5904,7 +5904,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -17.78 -7.62 0)
+				(at -17.78 -12.7 0)
 				(length 2.54)
 				(name "SS"
 					(effects
@@ -5924,8 +5924,8 @@
 		)
 		(symbol "MAX17761ATC+_1_0"
 			(rectangle
-				(start -15.24 10.16)
-				(end 15.24 -10.16)
+				(start -15.24 15.24)
+				(end 15.24 -15.24)
 				(stroke
 					(width 0)
 					(type default)
@@ -5937,7 +5937,7 @@
 		)
 		(symbol "MAX17761ATC+_1_1"
 			(pin unspecified line
-				(at 17.78 -7.62 180)
+				(at 17.78 -12.7 180)
 				(length 2.54)
 				(name "~{RESET}"
 					(effects
