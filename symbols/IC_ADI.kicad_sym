@@ -5913,7 +5913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "MAX17761ATC+"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX17761.pdf"
 			(at 23.876 -36.576 0)
 			(effects
 				(font
