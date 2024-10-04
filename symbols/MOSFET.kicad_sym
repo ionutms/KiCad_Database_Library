@@ -1099,6 +1099,7 @@
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "footprints:LFPAK33_SOT1210_NEX"
