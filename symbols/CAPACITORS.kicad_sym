@@ -1987,7 +1987,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "0.15uF"
 			(at 2.54 -1.27 0)
 			(effects
 				(font
