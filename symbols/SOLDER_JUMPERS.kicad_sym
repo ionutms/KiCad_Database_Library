@@ -22,6 +22,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "footprints:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
