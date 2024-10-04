@@ -844,7 +844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:SOD128"
 			(at -2.286 -7.874 0)
 			(effects
 				(font
