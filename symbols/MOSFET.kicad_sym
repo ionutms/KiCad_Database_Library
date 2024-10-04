@@ -17,7 +17,7 @@
 				)
 			)
 		)
-		(property "Value" "BSS138-7-F"
+		(property "Value" "BSS123WQ-7-F"
 			(at 10.16 -2.54 0)
 			(effects
 				(font
@@ -54,7 +54,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BSS138-7-F"
+		(property "MPN" "BSS123WQ-7-F"
 			(at 0.762 -12.192 0)
 			(effects
 				(font
