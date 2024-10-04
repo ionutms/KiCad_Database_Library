@@ -3480,7 +3480,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -0.254 34.29 0)
+			(at -0.254 39.37 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3488,7 +3488,7 @@
 			)
 		)
 		(property "Value" "LTC9111RDE-PBF"
-			(at 0 31.75 0)
+			(at 0 36.83 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3496,7 +3496,7 @@
 			)
 		)
 		(property "Footprint" "footprints:05-08-1695_ADI"
-			(at 16.256 -30.734 0)
+			(at 17.018 -37.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3506,7 +3506,7 @@
 			)
 		)
 		(property "Datasheet" "LTC9111RDE-PBF"
-			(at 17.018 -27.432 0)
+			(at 17.78 -33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3516,7 +3516,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 12.7 -21.59 0)
+			(at 12.7 -26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3544,7 +3544,7 @@
 		)
 		(symbol "LTC9111RDE-PBF_0_1"
 			(pin input line
-				(at -12.7 22.86 0)
+				(at -12.7 27.94 0)
 				(length 2.54)
 				(name "SNS1"
 					(effects
@@ -3562,7 +3562,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -20.32 180)
+				(at 12.7 -25.4 180)
 				(length 2.54)
 				(name "CLASSC"
 					(effects
@@ -3580,7 +3580,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 22.86 180)
+				(at 12.7 27.94 180)
 				(length 2.54)
 				(name "OUT"
 					(effects
@@ -3598,7 +3598,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 25.4 180)
+				(at 12.7 30.48 180)
 				(length 2.54)
 				(name "GATE"
 					(effects
@@ -3616,7 +3616,7 @@
 				)
 			)
 			(pin power_out line
-				(at 0 -27.94 90)
+				(at 0 -33.02 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3634,7 +3634,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -7.62 0)
+				(at -12.7 -12.7 0)
 				(length 2.54)
 				(name "SNS2"
 					(effects
@@ -3652,7 +3652,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 25.4 0)
+				(at -12.7 30.48 0)
 				(length 2.54)
 				(name "IN"
 					(effects
@@ -3670,7 +3670,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -17.78 180)
+				(at 12.7 -22.86 180)
 				(length 2.54)
 				(name "STBY"
 					(effects
@@ -3688,7 +3688,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -22.86 180)
+				(at 12.7 -27.94 180)
 				(length 2.54)
 				(name "CLASSV"
 					(effects
@@ -3706,7 +3706,7 @@
 				)
 			)
 			(pin output line
-				(at 12.7 20.32 180)
+				(at 12.7 25.4 180)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -3742,7 +3742,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 -22.86 0)
+				(at -12.7 -27.94 0)
 				(length 2.54)
 				(name "LGATE2"
 					(effects
@@ -3760,7 +3760,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 7.62 0)
+				(at -12.7 12.7 0)
 				(length 2.54)
 				(name "LGATE1"
 					(effects
@@ -3780,8 +3780,8 @@
 		)
 		(symbol "LTC9111RDE-PBF_1_1"
 			(rectangle
-				(start -10.16 27.94)
-				(end 10.16 -25.4)
+				(start -10.16 33.02)
+				(end 10.16 -30.48)
 				(stroke
 					(width 0)
 					(type default)
