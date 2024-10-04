@@ -3580,7 +3580,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 25.4 180)
+				(at 12.7 22.86 180)
 				(length 2.54)
 				(name "OUT"
 					(effects
