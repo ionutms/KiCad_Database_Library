@@ -725,6 +725,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "footprints:CUI_TBP02R2-381-03BE"
