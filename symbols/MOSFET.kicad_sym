@@ -1884,42 +1884,6 @@
 					(type none)
 				)
 			)
-			(pin unspecified line
-				(at 7.62 3.81 180)
-				(length 2.54)
-				(name "S"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 7.62 1.27 180)
-				(length 2.54)
-				(name "S"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 		)
 		(symbol "ZXMP6A17E6TA_1_1"
 			(circle
@@ -1995,18 +1959,6 @@
 			)
 			(polyline
 				(pts
-					(xy -5.08 1.27) (xy -5.08 0) (xy -2.54 0) (xy -2.54 1.27) (xy -0.508 1.27)
-				)
-				(stroke
-					(width 0.2032)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
 					(xy 0 -2.032) (xy 0 0) (xy 2.54 0) (xy 2.032 0) (xy 2.032 -2.032)
 				)
 				(stroke
@@ -2019,7 +1971,19 @@
 			)
 			(polyline
 				(pts
-					(xy 0.508 1.27) (xy 2.54 1.27) (xy 2.54 0) (xy 5.08 0) (xy 5.08 3.81) (xy 5.08 -3.81)
+					(xy 5.08 1.27) (xy 5.08 0) (xy 2.54 0) (xy 2.54 1.27) (xy 0.508 1.27)
+				)
+				(stroke
+					(width 0.2032)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.508 1.27) (xy -2.54 1.27) (xy -2.54 0) (xy -5.08 0) (xy -5.08 3.81) (xy -5.08 -3.81)
 				)
 				(stroke
 					(width 0.2032)
@@ -2052,6 +2016,42 @@
 				)
 			)
 			(pin unspecified line
+				(at -7.62 3.81 0)
+				(length 2.54)
+				(name "D"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 1.27 0)
+				(length 2.54)
+				(name "D"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
 				(at 2.54 -6.35 180)
 				(length 2.54)
 				(name "G"
@@ -2070,9 +2070,9 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 1.27 0)
+				(at 7.62 1.27 180)
 				(length 2.54)
-				(name "D"
+				(name "S"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2088,9 +2088,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -1.27 180)
+				(at -7.62 -1.27 0)
 				(length 2.54)
-				(name "S"
+				(name "D"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2106,9 +2106,9 @@
 				)
 			)
 			(pin unspecified line
-				(at 7.62 -3.81 180)
+				(at -7.62 -3.81 0)
 				(length 2.54)
-				(name "S"
+				(name "D"
 					(effects
 						(font
 							(size 1.27 1.27)
