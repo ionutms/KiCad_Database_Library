@@ -1098,30 +1098,6 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy -2.54 0) (xy -5.08 1.905) (xy -5.08 -1.905) (xy -2.54 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 5.08 0) (xy 2.54 1.905) (xy 2.54 -1.905) (xy 5.08 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(circle
 				(center 0 0)
 				(radius 0.127)
@@ -1177,6 +1153,30 @@
 				)
 				(stroke
 					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 0) (xy -5.08 1.905) (xy -5.08 -1.905) (xy -2.54 0)
+				)
+				(stroke
+					(width 0.2032)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 5.08 0) (xy 2.54 1.905) (xy 2.54 -1.905) (xy 5.08 0)
+				)
+				(stroke
+					(width 0.2032)
 					(type default)
 				)
 				(fill
