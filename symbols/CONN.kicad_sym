@@ -859,6 +859,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "footprints:CUI_TBP02R2-381-08BE"
@@ -930,7 +931,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 6.35 0)
+				(at 5.08 6.35 180)
 				(length 2.54)
 				(name "2"
 					(effects
@@ -966,7 +967,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 1.27 0)
+				(at 5.08 1.27 180)
 				(length 2.54)
 				(name "4"
 					(effects
@@ -1002,7 +1003,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -3.81 0)
+				(at 5.08 -3.81 180)
 				(length 2.54)
 				(name "6"
 					(effects
@@ -1038,7 +1039,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -8.89 0)
+				(at 5.08 -8.89 180)
 				(length 2.54)
 				(name "8"
 					(effects
