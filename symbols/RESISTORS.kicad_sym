@@ -39,7 +39,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
 			(at 2.54 -3.81 0)
 			(show_name)
 			(effects
@@ -61,7 +61,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-2RKF1002X"
+		(property "Manufacturer" "Panasonic"
 			(at 2.54 -11.43 0)
 			(show_name)
 			(effects
@@ -72,8 +72,30 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "50 V"
+		(property "MPN" "ERJ-2RKF1002X"
 			(at 2.54 -13.97 0)
+			(show_name)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1 %"
+			(at 2.794 -16.51 0)
+			(show_name)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50 V"
+			(at 2.54 -19.05 0)
 			(show_name)
 			(effects
 				(font
