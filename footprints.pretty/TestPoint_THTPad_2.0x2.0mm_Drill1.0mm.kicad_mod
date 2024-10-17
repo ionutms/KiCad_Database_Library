@@ -108,6 +108,7 @@
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(zone_connect 2)
 		(uuid "4c0db315-c5e6-4b9a-8e7e-fcc8fc5d5da2")
 	)
 )
