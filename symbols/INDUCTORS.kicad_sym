@@ -149,7 +149,7 @@
 				)
 			)
 		)
-		(property "Value" "XAL5050-223MEC"
+		(property "Value" "22 uH"
 			(at 0.635 -2.54 0)
 			(effects
 				(font
@@ -178,8 +178,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 7.62 0 0)
+		(property "Description" "Power Inductors - SMD 22uH Shld 20% 3.4A 99.65mOhms AECQ2"
+			(at 10.668 -11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -444,7 +444,7 @@
 				)
 			)
 		)
-		(property "Value" "XFL3012-104MEC"
+		(property "Value" "100 uH"
 			(at 0.635 -2.54 0)
 			(effects
 				(font
@@ -473,8 +473,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 7.62 0 0)
+		(property "Description" "Power Inductors - SMD 100Uh Shld 390mA 3Ohms AECQ2"
+			(at 7.366 -10.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
