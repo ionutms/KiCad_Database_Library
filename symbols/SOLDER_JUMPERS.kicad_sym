@@ -26,7 +26,7 @@
 			)
 		)
 		(property "Footprint" "footprints:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
-			(at 0 0 0)
+			(at 3.81 -8.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35,7 +35,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at -0.762 -10.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44,7 +44,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 0 0 0)
+			(at 2.54 -5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -166,7 +166,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number ""
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -184,7 +184,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number ""
 					(effects
 						(font
 							(size 1.27 1.27)
