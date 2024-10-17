@@ -933,7 +933,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin no_connect line
 				(at -7.62 2.54 0)
 				(length 2.54) hide
 				(name ""
@@ -951,7 +951,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin no_connect line
 				(at -7.62 -2.54 0)
 				(length 2.54) hide
 				(name ""
@@ -1005,7 +1005,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin no_connect line
 				(at 7.62 2.54 180)
 				(length 2.54) hide
 				(name ""
@@ -1023,7 +1023,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin no_connect line
 				(at 7.62 -2.54 180)
 				(length 2.54) hide
 				(name ""
