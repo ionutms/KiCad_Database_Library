@@ -1092,6 +1092,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "footprints:CUI_TBP04R2-500-02BE"
