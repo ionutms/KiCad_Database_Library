@@ -6,25 +6,27 @@
 	(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 	(tags "resistor")
 	(property "Reference" "REF**"
-		(at 0 -1.43 0)
+		(at 0 -1.27 0)
 		(layer "F.SilkS")
 		(uuid "6df974b4-b819-4abf-a570-cfac24b90f22")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.762 0.762)
+				(thickness 0.1524)
 			)
+			(justify left)
 		)
 	)
 	(property "Value" "R_0603_1608Metric"
-		(at 0 1.43 0)
+		(at 0 1.27 0)
 		(layer "F.Fab")
 		(uuid "43a2d3f9-8880-4891-bb65-e1f1adf1c2a5")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.762 0.762)
+				(thickness 0.1524)
 			)
+			(justify left)
 		)
 	)
 	(property "Footprint" ""
@@ -71,7 +73,7 @@
 		(start -0.237258 -0.5225)
 		(end 0.237258 -0.5225)
 		(stroke
-			(width 0.12)
+			(width 0.1524)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -81,7 +83,7 @@
 		(start -0.237258 0.5225)
 		(end 0.237258 0.5225)
 		(stroke
-			(width 0.12)
+			(width 0.1524)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -92,62 +94,35 @@
 			(xy -1.48 -0.73) (xy 1.48 -0.73) (xy 1.48 0.73) (xy -1.48 0.73)
 		)
 		(stroke
-			(width 0.0254)
+			(width 0.00635)
 			(type solid)
 		)
 		(fill none)
 		(layer "F.CrtYd")
 		(uuid "02e22f04-3b65-474f-8dfa-dafecf7e4af7")
 	)
-	(fp_line
+	(fp_rect
 		(start -0.8 -0.4125)
-		(end 0.8 -0.4125)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "30e382fb-e120-4499-bc15-156f98cd93e8")
-	)
-	(fp_line
-		(start -0.8 0.4125)
-		(end -0.8 -0.4125)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "d04dd1a4-2178-41f5-9bb7-ad470915f47a")
-	)
-	(fp_line
-		(start 0.8 -0.4125)
 		(end 0.8 0.4125)
 		(stroke
-			(width 0.1)
-			(type solid)
+			(width 0.0254)
+			(type default)
 		)
+		(fill none)
 		(layer "F.Fab")
-		(uuid "0746adbb-419c-491f-ae91-c14351e88a28")
-	)
-	(fp_line
-		(start 0.8 0.4125)
-		(end -0.8 0.4125)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "9ddd7cd8-091d-447c-bc2a-eed5612caf40")
+		(uuid "e3b96912-bafb-4bf0-9909-8deccbb71f7d")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 2.54 0)
 		(layer "F.Fab")
 		(uuid "2dfd6efa-e1ab-4e55-ab2b-7f9e70f33afa")
 		(effects
 			(font
-				(size 0.4 0.4)
-				(thickness 0.06)
+				(size 0.762 0.762)
+				(thickness 0.1524)
+				(bold yes)
 			)
+			(justify left)
 		)
 	)
 	(pad "1" smd roundrect
