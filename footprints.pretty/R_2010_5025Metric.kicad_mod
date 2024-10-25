@@ -6,25 +6,27 @@
 	(descr "Resistor SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 	(tags "resistor")
 	(property "Reference" "REF**"
-		(at 0 -2.28 0)
+		(at 0 -2.286 0)
 		(layer "F.SilkS")
 		(uuid "bc65683d-9b42-4e46-99e1-459d3a8661fb")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.762 0.762)
+				(thickness 0.1524)
 			)
+			(justify left)
 		)
 	)
 	(property "Value" "R_2010_5025Metric"
-		(at 0 2.28 0)
+		(at 0 2.286 0)
 		(layer "F.Fab")
 		(uuid "80572eca-0f93-4dec-9686-ab194da9294f")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.762 0.762)
+				(thickness 0.1524)
 			)
+			(justify left)
 		)
 	)
 	(property "Footprint" ""
@@ -140,14 +142,15 @@
 		(uuid "91af7377-b5e2-4114-9be2-4aae56971345")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 3.81 0)
+		(at 0 3.556 0)
 		(layer "F.Fab")
 		(uuid "f7cbafb1-ac8a-4170-9e88-3b7b0a0c2151")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.762 0.762)
+				(thickness 0.1524)
 			)
+			(justify left)
 		)
 	)
 	(pad "1" smd roundrect
