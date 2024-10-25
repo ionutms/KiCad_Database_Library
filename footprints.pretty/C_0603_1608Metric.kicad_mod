@@ -6,25 +6,27 @@
 	(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 	(tags "capacitor")
 	(property "Reference" "REF**"
-		(at 0 -1.43 0)
+		(at 0 -1.524 0)
 		(layer "F.SilkS")
 		(uuid "d8b50c90-0233-4120-8eb7-fd37553c1dae")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.762 0.762)
+				(thickness 0.1524)
 			)
+			(justify left)
 		)
 	)
 	(property "Value" "C_0603_1608Metric"
-		(at 0 1.43 0)
+		(at 0 1.524 0)
 		(layer "F.Fab")
 		(uuid "4e5feb93-e33a-49c0-b9c5-ae5884f54838")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.762 0.762)
+				(thickness 0.1524)
 			)
+			(justify left)
 		)
 	)
 	(property "Footprint" ""
@@ -71,7 +73,7 @@
 		(start -0.14058 -0.51)
 		(end 0.14058 -0.51)
 		(stroke
-			(width 0.12)
+			(width 0.1524)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -81,7 +83,7 @@
 		(start -0.14058 0.51)
 		(end 0.14058 0.51)
 		(stroke
-			(width 0.12)
+			(width 0.1524)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -92,62 +94,35 @@
 			(xy 1.48 -0.73) (xy 1.48 0.73) (xy -1.48 0.73) (xy -1.48 -0.73)
 		)
 		(stroke
-			(width 0.0254)
+			(width 0.00635)
 			(type solid)
 		)
 		(fill none)
 		(layer "F.CrtYd")
 		(uuid "ea68f2d7-d004-41c0-841c-443390f8600c")
 	)
-	(fp_line
+	(fp_rect
 		(start -0.8 -0.4)
-		(end 0.8 -0.4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "06122ef5-5764-4a31-a1df-58f084862b1c")
-	)
-	(fp_line
-		(start -0.8 0.4)
-		(end -0.8 -0.4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "864e65e5-cec8-4833-ae53-dec6136866be")
-	)
-	(fp_line
-		(start 0.8 -0.4)
 		(end 0.8 0.4)
 		(stroke
-			(width 0.1)
-			(type solid)
+			(width 0.0254)
+			(type default)
 		)
+		(fill none)
 		(layer "F.Fab")
-		(uuid "1d2a7865-4bae-407b-82ca-a2578f9efb73")
-	)
-	(fp_line
-		(start 0.8 0.4)
-		(end -0.8 0.4)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "3fe6a869-68b8-4f26-8354-3cc1c9697594")
+		(uuid "c3d46e2c-d35e-4db0-9455-0570fb8d696d")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 2.54 0)
+		(at 0 2.794 0)
 		(layer "F.Fab")
 		(uuid "579d7eba-875c-4a83-94cf-9a0ffb7d4ec6")
 		(effects
 			(font
-				(size 0.4 0.4)
-				(thickness 0.06)
+				(size 0.762 0.762)
+				(thickness 0.1524)
+				(bold yes)
 			)
+			(justify left)
 		)
 	)
 	(pad "1" smd roundrect
