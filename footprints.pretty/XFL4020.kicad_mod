@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -2.54 0)
+		(at 0 -3.048 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "7b05d21c-02dc-4ba8-9f03-e6083bc3f79d")
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "XFL4020"
-		(at 0 4.064 0)
+		(at 0 4.318 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "b45bac3a-d36c-4a08-9641-f34ca5e2f605")
@@ -67,8 +67,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -0.6096 1.8542)
-		(end 0.6096 1.8542)
+		(start -0.6096 2.2352)
+		(end 0.6096 2.2352)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -77,8 +77,8 @@
 		(uuid "6b0b8d9d-a399-4381-8e56-4f49f202d47c")
 	)
 	(fp_line
-		(start 0.6096 -1.8542)
-		(end -0.6096 -1.8542)
+		(start 0.6096 -2.2352)
+		(end -0.6096 -2.2352)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -87,19 +87,19 @@
 		(uuid "6b797342-a016-419a-a131-83b49de6c68c")
 	)
 	(fp_rect
-		(start -1.905 -1.9558)
-		(end 1.904991 1.955791)
+		(start -2.2352 -2.2352)
+		(end 2.2352 2.2352)
 		(stroke
 			(width 0.00635)
 			(type default)
 		)
 		(fill none)
 		(layer "F.CrtYd")
-		(uuid "0fef83d7-5836-43aa-9f75-1b4932c90190")
+		(uuid "32898af7-701f-40d0-8177-89ef31e1fd72")
 	)
 	(fp_rect
-		(start -1.7018 -1.7526)
-		(end 1.7018 1.7526)
+		(start -2.2352 -2.2352)
+		(end 2.2352 2.2352)
 		(stroke
 			(width 0.0254)
 			(type default)
@@ -120,7 +120,7 @@
 		(uuid "1885b70c-7174-4945-8cf7-14a7de11200d")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 2.794 0)
+		(at 0 3.048 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "69fb24f3-413c-451e-a047-0ab02c69af18")

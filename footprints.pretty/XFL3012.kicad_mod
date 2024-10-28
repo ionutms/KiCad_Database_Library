@@ -67,8 +67,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -0.4318 1.6002)
-		(end 0.4318 1.6002)
+		(start -0.4318 1.6764)
+		(end 0.4318 1.6764)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -77,8 +77,8 @@
 		(uuid "6b0b8d9d-a399-4381-8e56-4f49f202d47c")
 	)
 	(fp_line
-		(start 0.4318 -1.6002)
-		(end -0.4318 -1.6002)
+		(start 0.4318 -1.6764)
+		(end -0.4318 -1.6764)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -87,19 +87,19 @@
 		(uuid "6b797342-a016-419a-a131-83b49de6c68c")
 	)
 	(fp_rect
-		(start -1.7526 -1.7018)
-		(end 1.7526 1.7018)
+		(start -1.6764 -1.6764)
+		(end 1.6764 1.6764)
 		(stroke
 			(width 0.00635)
 			(type default)
 		)
 		(fill none)
 		(layer "F.CrtYd")
-		(uuid "0fef83d7-5836-43aa-9f75-1b4932c90190")
+		(uuid "210cdd75-fbde-4624-8385-c45818956d41")
 	)
 	(fp_rect
-		(start -1.5494 -1.4986)
-		(end 1.5494 1.4986)
+		(start -1.6764 -1.6764)
+		(end 1.6764 1.6764)
 		(stroke
 			(width 0.0254)
 			(type default)
