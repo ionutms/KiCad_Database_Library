@@ -147,18 +147,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "94aa432a-0a61-45cd-81df-5cc6c2fd09f1")
 	)
-	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/CUI_DEVICES_TBP02R2-381-02BE.step"
-		(offset
-			(xyz 17.145 -6.477 18.288)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 90 0 -90)
-		)
-	)
-	(model "C:/Users/Mihai_Ionut/Documents/GitHub/KiCad_Database_Library/3D_models/CUI_DEVICES_TBP02R2-381-03BE.step"
+	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/CUI_DEVICES_TBP02R2-381-03BE.step"
 		(offset
 			(xyz 15.24 -6.477 18.288)
 		)
