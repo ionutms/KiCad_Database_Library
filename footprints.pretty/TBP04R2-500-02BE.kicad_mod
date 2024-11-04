@@ -65,8 +65,8 @@
 	)
 	(attr through_hole)
 	(fp_rect
-		(start -5.842 -4.064)
-		(end 5.842 4.826)
+		(start -5.8 -4)
+		(end 5.8 4.8)
 		(stroke
 			(width 0.1524)
 			(type default)
@@ -76,8 +76,8 @@
 		(uuid "9515c963-8a55-45d8-8410-23b928bd2f15")
 	)
 	(fp_circle
-		(center -6.45 0)
-		(end -6.196 0)
+		(center -6.4 0)
+		(end -6.146 0)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -87,8 +87,8 @@
 		(uuid "901956a0-b62e-41b1-b518-06f53439b5de")
 	)
 	(fp_rect
-		(start -5.842 -4.064)
-		(end 5.842 4.826)
+		(start -5.8 -4)
+		(end 5.8 4.8)
 		(stroke
 			(width 0.00635)
 			(type default)
@@ -98,8 +98,8 @@
 		(uuid "86a32b10-af94-4d9d-84d6-b7eeba47e1b3")
 	)
 	(fp_rect
-		(start -5.842 -4.064)
-		(end 5.842 4.826)
+		(start -5.8 -4)
+		(end 5.8 4.8)
 		(stroke
 			(width 0.1524)
 			(type default)
@@ -109,8 +109,8 @@
 		(uuid "f100c793-0f3e-4de8-af48-5fef8b5ba31d")
 	)
 	(fp_circle
-		(center -6.45 0)
-		(end -6.196 0)
+		(center -6.4 0)
+		(end -6.146 0)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -139,7 +139,7 @@
 	)
 	(model "${KIPRJMOD}/KiCad_Database_Library/3D_models/CUI_DEVICES_TBP04R2-500-02BE.step"
 		(offset
-			(xyz 5.0038 -0.6858 -3.81)
+			(xyz 5 -0.75 -3.81)
 		)
 		(scale
 			(xyz 1 1 1)
