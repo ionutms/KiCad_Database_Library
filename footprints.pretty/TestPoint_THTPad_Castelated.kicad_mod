@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "TP**"
-		(at 0 -1.778 0)
+		(at 0 -1.27 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "ea31613f-a0a2-4f5a-9373-bee042a054d1")
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "TestPoint_THTPad_Castelated"
-		(at 0 1.778 0)
+		(at 0 1.27 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -68,8 +68,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start 0.3302 0.7112)
-		(end 1.6002 0.7112)
+		(start 0.5842 0.6096)
+		(end 1.6002 0.6096)
 		(stroke
 			(width 0.1524)
 			(type default)
@@ -78,8 +78,8 @@
 		(uuid "14f65f7c-d7dc-45eb-a20c-78eabb7ffe54")
 	)
 	(fp_line
-		(start 1.6002 -0.7112)
-		(end 0.3302 -0.7112)
+		(start 1.6002 -0.6096)
+		(end 0.5842 -0.6096)
 		(stroke
 			(width 0.1524)
 			(type default)
@@ -88,9 +88,9 @@
 		(uuid "b33b1ac4-1245-4137-8e06-b96a410ee247")
 	)
 	(fp_arc
-		(start 1.6002 -0.7112)
-		(mid 2.103094 -0.502894)
-		(end 2.3114 0)
+		(start 1.605683 -0.6096)
+		(mid 2.036735 -0.431052)
+		(end 2.215283 0)
 		(stroke
 			(width 0.1524)
 			(type default)
@@ -99,19 +99,19 @@
 		(uuid "4c0b61d0-0b19-4dcf-9bcc-7edf0f2fbb2a")
 	)
 	(fp_arc
-		(start 2.3114 0)
-		(mid 2.103094 0.502894)
-		(end 1.6002 0.7112)
+		(start 2.214876 0)
+		(mid 2.034656 0.432548)
+		(end 1.600627 0.609172)
 		(stroke
 			(width 0.1524)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "e069158a-c5b4-4902-b6c1-3e489d864442")
+		(uuid "7c3929cb-8bb2-4e85-a727-a24b02108993")
 	)
 	(fp_line
-		(start 0 -0.7112)
-		(end 0 0.7112)
+		(start 0.508 -0.6096)
+		(end 0.508 0.6096)
 		(stroke
 			(width 0.00635)
 			(type default)
@@ -120,8 +120,8 @@
 		(uuid "42be0936-3bcc-4dab-88cf-3b0f253008d0")
 	)
 	(fp_line
-		(start 0 0.7112)
-		(end 1.6002 0.7112)
+		(start 0.508 0.6096)
+		(end 1.6002 0.6096)
 		(stroke
 			(width 0.00635)
 			(type default)
@@ -130,8 +130,8 @@
 		(uuid "88f1f049-4b1c-46b0-916d-23efae4463bd")
 	)
 	(fp_line
-		(start 1.6002 -0.7112)
-		(end 0 -0.7112)
+		(start 1.6002 -0.6096)
+		(end 0.508 -0.6096)
 		(stroke
 			(width 0.00635)
 			(type default)
@@ -140,20 +140,20 @@
 		(uuid "65d3e6aa-5125-4838-a382-ff55f993cf8f")
 	)
 	(fp_arc
-		(start 1.6002 -0.7112)
-		(mid 2.103094 -0.502894)
-		(end 2.3114 0)
+		(start 1.6002 -0.6096)
+		(mid 2.031252 -0.431052)
+		(end 2.2098 0)
 		(stroke
 			(width 0.00635)
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "7157da88-40f8-4fb4-8de3-c24a7dae0f2c")
+		(uuid "d8b52f95-2d98-4995-9498-b67b0c1db074")
 	)
 	(fp_arc
-		(start 2.3114 0)
-		(mid 2.103094 0.502894)
-		(end 1.6002 0.7112)
+		(start 2.2098 0)
+		(mid 2.031252 0.431052)
+		(end 1.6002 0.6096)
 		(stroke
 			(width 0.00635)
 			(type default)
@@ -163,8 +163,8 @@
 	)
 	(pad "1" thru_hole circle
 		(at 0 0)
-		(size 1.2 1.2)
-		(drill 0.6)
+		(size 1 1)
+		(drill 0.8)
 		(property pad_prop_castellated)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -172,7 +172,7 @@
 	)
 	(pad "1" thru_hole roundrect
 		(at 1.6 0)
-		(size 2.8 1.2)
+		(size 2.6 1)
 		(drill 0.6
 			(offset -0.8 0)
 		)
