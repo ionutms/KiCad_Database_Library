@@ -179,6 +179,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.5)
+		(zone_connect 2)
 		(uuid "ae39b28e-6ff4-4abd-a937-178de798e27e")
 	)
 )
